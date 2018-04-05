@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2017-11-29T01:14:52.626Z</time>
+  <bounds minlat="45.667025200" minlon="-124.661822300" maxlat="48.995987700" maxlon="-119.114198800"/>
+  <wpt lat="47.038573900" lon="-122.892691400">
+    <ele>0.000000</ele>
+    <name>CLICK FOR LEGEND</name>
+    <cmt>Blue = Launch; Green = WDFW vehicle use permit required; Tent = campground</cmt>
+    <desc>Blue = Launch; Green = WDFW vehicle use permit required; Tent = campground</desc>
+  </wpt>
+  <wpt lat="46.798994100" lon="-122.291650400">
+    <ele>0.000000</ele>
+    <name>Alder Lake Park</name>
+    <cmt>Discover pass.</cmt>
+    <desc>Discover pass.</desc>
+  </wpt>
+  <wpt lat="46.770195900" lon="-122.209280300">
+    <ele>0.000000</ele>
+    <name>Alder Lake Rocky Pt</name>
+    <cmt>4 miles east of Alder Lake park on Hwy 7.&lt;br&gt;Discover pass</cmt>
+    <desc>4 miles east of Alder Lake park on Hwy 7.&lt;br&gt;Discover pass</desc>
+  </wpt>
+  <wpt lat="47.592981500" lon="-122.382299200">
+    <ele>0.000000</ele>
+    <name>Alki</name>
+    <cmt>Alki</cmt>
+    <desc>Alki</desc>
+  </wpt>
+  <wpt lat="47.589271500" lon="-122.380660200">
+    <ele>0.000000</ele>
+    <name>Alki - Seacrest Park</name>
+    <cmt>Alki - Seacrest Park</cmt>
+    <desc>Alki - Seacrest Park</desc>
+  </wpt>
+  <wpt lat="47.384868300" lon="-122.826343900">
+    <ele>0.000000</ele>
+    <name>Allyn</name>
+    <cmt>Allyn</cmt>
+    <desc>Allyn</desc>
+  </wpt>
+  <wpt lat="47.122899000" lon="-122.567123900">
+    <ele>0.000000</ele>
+    <name>American Lake</name>
+    <cmt>WDFW permit or Discover pass required.&lt;br&gt;Bathrooms</cmt>
+    <desc>WDFW permit or Discover pass required.&lt;br&gt;Bathrooms</desc>
+  </wpt>
+  <wpt lat="47.140570100" lon="-122.560182500">
+    <ele>0.000000</ele>
+    <name>American Lake Park</name>
+    <cmt>American Lake Park</cmt>
+    <desc>American Lake Park</desc>
+  </wpt>
+  <wpt lat="48.491845100" lon="-122.687078400">
+    <ele>0.000000</ele>
+    <name>Anacortes, Burrows Bay</name>
+    <cmt>Skyline marina.&lt;br&gt;On street parking.on west end Cabana Lane.&lt;br&gt;Gravel beach</cmt>
+    <desc>Skyline marina.&lt;br&gt;On street parking.on west end Cabana Lane.&lt;br&gt;Gravel beach</desc>
+  </wpt>
+  <wpt lat="48.515765900" lon="-122.607743400">
+    <ele>0.000000</ele>
+    <name>Anacortes, Cape Sante Marina</name>
+    <cmt>Anacortes, Cape Sante Marina</cmt>
+    <desc>Anacortes, Cape Sante Marina</desc>
+  </wpt>
+  <wpt lat="48.518132300" lon="-122.624878000">
+    <ele>0.000000</ele>
+    <name>Anacortes, Guemes Ferry </name>
+    <cmt>Overnight parking can be had along the neighborhood streets</cmt>
+    <desc>Overnight parking can be had along the neighborhood streets</desc>
+  </wpt>
+  <wpt lat="48.500270400" lon="-122.692844500">
+    <ele>0.000000</ele>
+    <name>Anacortes, Washington Park</name>
+    <cmt>Overnight parking is available (fee) Anacortes, WA 98221</cmt>
+    <desc>Overnight parking is available (fee) Anacortes, WA 98221</desc>
+  </wpt>
+  <wpt lat="47.547867600" lon="-122.616187200">
+    <ele>0.000000</ele>
+    <name>Annapolis</name>
+    <cmt>Annapolis</cmt>
+    <desc>Annapolis</desc>
+  </wpt>
+  <wpt lat="47.197309600" lon="-122.938562300">
+    <ele>0.000000</ele>
+    <name>Arcadia Point</name>
+    <cmt>Arcadia Point</cmt>
+    <desc>Arcadia Point</desc>
+  </wpt>
+  <wpt lat="46.117338700" lon="-123.875070900">
+    <ele>0.000000</ele>
+    <name>Astoria, Lewis &amp; Clark River</name>
+    <cmt>Lewis and Clark Rd  Astoria, OR</cmt>
+    <desc>Lewis and Clark Rd  Astoria, OR</desc>
+  </wpt>
+  <wpt lat="48.492527400" lon="-122.483514200">
+    <ele>0.000000</ele>
+    <name>Bay View State Park</name>
+    <cmt>Padilla Bay</cmt>
+    <desc>Padilla Bay</desc>
+  </wpt>
+  <wpt lat="47.425165700" lon="-122.873984800">
+    <ele>0.000000</ele>
+    <name>Belfair State Park</name>
+    <cmt>Discover pass</cmt>
+    <desc>Discover pass</desc>
+  </wpt>
+  <wpt lat="48.727463300" lon="-122.506591900">
+    <ele>0.000000</ele>
+    <name>Bellingham, Boulevard Park</name>
+    <cmt>Bellingham, Boulevard Park</cmt>
+    <desc>Bellingham, Boulevard Park</desc>
+  </wpt>
+  <wpt lat="47.336060100" lon="-122.921991800">
+    <ele>0.000000</ele>
+    <name>Benson Lake WDFW</name>
+    <cmt>Benson Lake WDFW</cmt>
+    <desc>Benson Lake WDFW</desc>
+  </wpt>
+  <wpt lat="46.983151000" lon="-122.974852400">
+    <ele>0.000000</ele>
+    <name>Black Lake</name>
+    <cmt>WDFW permit or Discover Pass required.&lt;br&gt;Public boat launch.&lt;br&gt;Bathrooms</cmt>
+    <desc>WDFW permit or Discover Pass required.&lt;br&gt;Public boat launch.&lt;br&gt;Bathrooms</desc>
+  </wpt>
+  <wpt lat="46.988508000" lon="-122.970550200">
+    <ele>0.000000</ele>
+    <name>Black Lake, Olympia</name>
+    <cmt>Kenny Dell County Park.  Long carry to launch.</cmt>
+    <desc>Kenny Dell County Park.  Long carry to launch.</desc>
+  </wpt>
+  <wpt lat="46.927846100" lon="-123.000636400">
+    <ele>0.000000</ele>
+    <name>Black River 110th Av</name>
+    <cmt>Black River 110th Av</cmt>
+    <desc>Black River 110th Av</desc>
+  </wpt>
+  <wpt lat="46.909195900" lon="-123.019827400">
+    <ele>0.000000</ele>
+    <name>Black River - 123rd Ave</name>
+    <cmt>Black River - 123rd Ave</cmt>
+    <desc>Black River - 123rd Ave</desc>
+  </wpt>
+  <wpt lat="46.832218700" lon="-123.121161400">
+    <ele>0.000000</ele>
+    <name>Black River, Gate , WDFW</name>
+    <cmt>Black River, Gate , WDFW</cmt>
+    <desc>Black River, Gate , WDFW</desc>
+  </wpt>
+  <wpt lat="46.884189400" lon="-123.022456600">
+    <ele>0.000000</ele>
+    <name>Black River - Littlerock</name>
+    <cmt>WDFW permit or Discover pass</cmt>
+    <desc>WDFW permit or Discover pass</desc>
+  </wpt>
+  <wpt lat="47.140117000" lon="-122.905586900">
+    <ele>0.000000</ele>
+    <name>Boston Harbor</name>
+    <cmt>Mariina,, privy, store.&lt;br&gt;Discover pass required 2012&lt;br&gt;Sandy beach. can be muddy if minus tide.</cmt>
+    <desc>Mariina,, privy, store.&lt;br&gt;Discover pass required 2012&lt;br&gt;Sandy beach. can be muddy if minus tide.</desc>
+  </wpt>
+  <wpt lat="48.415472700" lon="-122.650766600">
+    <ele>0.000000</ele>
+    <name>Bowman Bay</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/PEv5-GgXb8RUMbu2N4csWux8H0iRCq_SKej_wMUcMs3qY8RIs3l878SH0P5vOj7Qnl_0PDASRs0gcZrulgSYn4NdiNhdWvl9MV6ysOmZnvK1EbEH6E1R8eVmC4QOrI0Dug&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Anacortes, WA 98221State Park  Discover Pass required</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/PEv5-GgXb8RUMbu2N4csWux8H0iRCq_SKej_wMUcMs3qY8RIs3l878SH0P5vOj7Qnl_0PDASRs0gcZrulgSYn4NdiNhdWvl9MV6ysOmZnvK1EbEH6E1R8eVmC4QOrI0Dug&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Anacortes, WA 98221State Park  Discover Pass required</desc>
+  </wpt>
+  <wpt lat="47.574520500" lon="-122.627254700">
+    <ele>0.000000</ele>
+    <name>Bremerton, Evergreen Park</name>
+    <cmt>Bremerton, Evergreen Park</cmt>
+    <desc>Bremerton, Evergreen Park</desc>
+  </wpt>
+  <wpt lat="47.649901100" lon="-122.616219200">
+    <ele>0.000000</ele>
+    <name>Brownsville</name>
+    <cmt>Brownsville</cmt>
+    <desc>Brownsville</desc>
+  </wpt>
+  <wpt lat="48.030748000" lon="-122.606756300">
+    <ele>0.000000</ele>
+    <name>Bush Point, Whidbey Island</name>
+    <cmt>Bush Point, Whidbey Island</cmt>
+    <desc>Bush Point, Whidbey Island</desc>
+  </wpt>
+  <wpt lat="48.252869700" lon="-122.517704700">
+    <ele>0.000000</ele>
+    <name>Camano Island, Maple Grove</name>
+    <cmt>mar 2012 Non Camano resident fee $15 !?!</cmt>
+    <desc>mar 2012 Non Camano resident fee $15 !?!</desc>
+  </wpt>
+  <wpt lat="48.103723900" lon="-122.399325200">
+    <ele>0.000000</ele>
+    <name>Camano Island, Tillicum Beach</name>
+    <cmt>Camano Island, Tillicum Beach</cmt>
+    <desc>Camano Island, Tillicum Beach</desc>
+  </wpt>
+  <wpt lat="46.204592300" lon="-123.388738100">
+    <ele>0.000000</ele>
+    <name>Cathlamet</name>
+    <cmt>Cathlamet</cmt>
+    <desc>Cathlamet</desc>
+  </wpt>
+  <wpt lat="47.608658900" lon="-122.707446700">
+    <ele>0.000000</ele>
+    <name>Chico</name>
+    <cmt>Chico</cmt>
+    <desc>Chico</desc>
+  </wpt>
+  <wpt lat="48.151141600" lon="-123.152361400">
+    <ele>0.000000</ele>
+    <name>Cline Spit</name>
+    <cmt>Access to Dungeness Bay &amp; Lighthouse&lt;br&gt;Discover pass or WDFW pass</cmt>
+    <desc>Access to Dungeness Bay &amp; Lighthouse&lt;br&gt;Discover pass or WDFW pass</desc>
+  </wpt>
+  <wpt lat="48.399819200" lon="-122.625060100">
+    <ele>0.000000</ele>
+    <name>Coronet Bay</name>
+    <cmt>east side access to Deception pass.  Discover pass, Restrooms.</cmt>
+    <desc>east side access to Deception pass.  Discover pass, Restrooms.</desc>
+  </wpt>
+  <wpt lat="46.960364200" lon="-123.758680100">
+    <ele>0.000000</ele>
+    <name>Cosmopolis</name>
+    <cmt>Cosmopolis</cmt>
+    <desc>Cosmopolis</desc>
+  </wpt>
+  <wpt lat="47.761872800" lon="-122.851267000">
+    <ele>0.000000</ele>
+    <name>Dabob Bay, Whitney Point</name>
+    <cmt>Dabob Bay, Whitney Point</cmt>
+    <desc>Dabob Bay, Whitney Point</desc>
+  </wpt>
+  <wpt lat="47.319385000" lon="-122.426909700">
+    <ele>0.000000</ele>
+    <name>Dash Point Pier</name>
+    <cmt>Dash Point Pier</cmt>
+    <desc>Dash Point Pier</desc>
+  </wpt>
+  <wpt lat="47.320201200" lon="-122.414142200">
+    <ele>0.000000</ele>
+    <name>Dash Point State Park</name>
+    <cmt>Discover pass required. 2011wheels helpful.</cmt>
+    <desc>Discover pass required. 2011wheels helpful.</desc>
+  </wpt>
+  <wpt lat="47.400208200" lon="-122.328788600">
+    <ele>0.000000</ele>
+    <name>Des Moines Marina</name>
+    <cmt>Des Moines Marina</cmt>
+    <desc>Des Moines Marina</desc>
+  </wpt>
+  <wpt lat="48.689402700" lon="-121.095696900">
+    <ele>0.000000</ele>
+    <name>Diablo Lake - Colonial Creek</name>
+    <cmt>Diablo Lake - Colonial Creek</cmt>
+    <desc>Diablo Lake - Colonial Creek</desc>
+  </wpt>
+  <wpt lat="48.715933500" lon="-121.115180700">
+    <ele>0.000000</ele>
+    <name>Diablo Lake - City of Seattle</name>
+    <cmt>Diablo Lake - City of Seattle</cmt>
+    <desc>Diablo Lake - City of Seattle</desc>
+  </wpt>
+  <wpt lat="48.995987700" lon="-122.759170800">
+    <ele>0.000000</ele>
+    <name>Drayton Harbor</name>
+    <cmt>Near Blaine</cmt>
+    <desc>Near Blaine</desc>
+  </wpt>
+  <wpt lat="47.560195100" lon="-122.344114500">
+    <ele>0.000000</ele>
+    <name>Duwamish Waterway</name>
+    <cmt>Diagonal St. Launch</cmt>
+    <desc>Diagonal St. Launch</desc>
+  </wpt>
+  <wpt lat="47.621727700" lon="-122.521419900">
+    <ele>0.000000</ele>
+    <name>Eagle Harbor, Bainbridge Island</name>
+    <cmt>Eagle Harbor, Bainbridge Island</cmt>
+    <desc>Eagle Harbor, Bainbridge Island</desc>
+  </wpt>
+  <wpt lat="48.191968900" lon="-122.708166000">
+    <ele>0.000000</ele>
+    <name>Ebey Landing State Park</name>
+    <cmt>Whidbey Island (West)</cmt>
+    <desc>Whidbey Island (West)</desc>
+  </wpt>
+  <wpt lat="47.802806900" lon="-122.394637200">
+    <ele>0.000000</ele>
+    <name>Edmonds</name>
+    <cmt>Edmonds</cmt>
+    <desc>Edmonds</desc>
+  </wpt>
+  <wpt lat="48.003131500" lon="-122.222042200">
+    <ele>0.000000</ele>
+    <name>Everett</name>
+    <cmt>Everett</cmt>
+    <desc>Everett</desc>
+  </wpt>
+  <wpt lat="48.719706600" lon="-122.516699100">
+    <ele>0.000000</ele>
+    <name>Fairhaven</name>
+    <cmt>Bellingham</cmt>
+    <desc>Bellingham</desc>
+  </wpt>
+  <wpt lat="47.704678500" lon="-122.508824200">
+    <ele>0.000000</ele>
+    <name>Fay Bainbridge State Park</name>
+    <cmt>Discover pass</cmt>
+    <desc>Discover pass</desc>
+  </wpt>
+  <wpt lat="48.156352300" lon="-122.673940200">
+    <ele>0.000000</ele>
+    <name>Fort Casey State Park</name>
+    <cmt>Whidbey Island near Keystone Ferry terminal</cmt>
+    <desc>Whidbey Island near Keystone Ferry terminal</desc>
+  </wpt>
+  <wpt lat="48.092935900" lon="-122.722821200">
+    <ele>0.000000</ele>
+    <name>Fort Flagler State Park</name>
+    <cmt>Fort Flagler State Park</cmt>
+    <desc>Fort Flagler State Park</desc>
+  </wpt>
+  <wpt lat="48.134518500" lon="-122.761638200">
+    <ele>0.000000</ele>
+    <name>Fort Warden State Park</name>
+    <cmt>Fort Warden State Park</cmt>
+    <desc>Fort Warden State Park</desc>
+  </wpt>
+  <wpt lat="47.275124100" lon="-122.650465800">
+    <ele>0.000000</ele>
+    <name>Fox Island Bridge</name>
+    <cmt>Fox Island Bridge</cmt>
+    <desc>Fox Island Bridge</desc>
+  </wpt>
+  <wpt lat="48.015779100" lon="-122.531032200">
+    <ele>0.000000</ele>
+    <name>Freeland, Whidbey Island</name>
+    <cmt>Freeland, Whidbey Island</cmt>
+    <desc>Freeland, Whidbey Island</desc>
+  </wpt>
+  <wpt lat="48.146489400" lon="-123.641520400">
+    <ele>0.000000</ele>
+    <name>Freshwater Bay</name>
+    <cmt>Port Angeles, WA 98363&lt;br&gt;&lt;br&gt;Discover pass or WDFW permit&lt;br&gt;Privy @ site</cmt>
+    <desc>Port Angeles, WA 98363&lt;br&gt;&lt;br&gt;Discover pass or WDFW permit&lt;br&gt;Privy @ site</desc>
+  </wpt>
+  <wpt lat="48.535696900" lon="-123.014913900">
+    <ele>0.000000</ele>
+    <name>Friday Harbor, San Juan Island</name>
+    <cmt>Take first gangway to left.  Launch is at the bottom on your left.</cmt>
+    <desc>Take first gangway to left.  Launch is at the bottom on your left.</desc>
+  </wpt>
+  <wpt lat="47.116167600" lon="-122.964992300">
+    <ele>0.000000</ele>
+    <name>Frye Cove</name>
+    <cmt>Thurston Co Park.  Long carry to water.</cmt>
+    <desc>Thurston Co Park.  Long carry to water.</desc>
+  </wpt>
+  <wpt lat="48.057229500" lon="-122.916391000">
+    <ele>0.000000</ele>
+    <name>Gardiner, Discovery Bay</name>
+    <cmt>Gardiner, Discovery Bay</cmt>
+    <desc>Gardiner, Discovery Bay</desc>
+  </wpt>
+  <wpt lat="47.650217600" lon="-122.330717100">
+    <ele>0.000000</ele>
+    <name>Gasworks Park Sunnyside</name>
+    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/ruMkXCOsFegbCPHm_ixVcVV1SxTDvoau79QMTU5UMw8JljLLoUdGr_8eLN5CZVu7NAwarK734hj-qE2NpRaHLVAZZ_kg55naIOpJwFYrlPHYSudpFYMIn7gFg9Daqj2bcw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Seattle, WA 98103&lt;br&gt;Sunnyside Boat Launch&lt;br&gt;park across street (Northlake way)&lt;br&gt;Port-a-Pot</cmt>
+    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/ruMkXCOsFegbCPHm_ixVcVV1SxTDvoau79QMTU5UMw8JljLLoUdGr_8eLN5CZVu7NAwarK734hj-qE2NpRaHLVAZZ_kg55naIOpJwFYrlPHYSudpFYMIn7gFg9Daqj2bcw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Seattle, WA 98103&lt;br&gt;Sunnyside Boat Launch&lt;br&gt;park across street (Northlake way)&lt;br&gt;Port-a-Pot</desc>
+  </wpt>
+  <wpt lat="47.337892100" lon="-122.582713700">
+    <ele>0.000000</ele>
+    <name>Gig Harbor</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/A6bn-IguaguLXLPX9-TVjNaRTMj9Bl9CZzABFG_EVKOVLJG2dLGLadKmykSuKKwolPSOOBLR5w26mCMoX827kDJaRPAAj_6F_FeKc9tikme7Q6-CmfwpdyCnFtos7BqHMw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Gig Harbor, WA 98332</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/A6bn-IguaguLXLPX9-TVjNaRTMj9Bl9CZzABFG_EVKOVLJG2dLGLadKmykSuKKwolPSOOBLR5w26mCMoX827kDJaRPAAj_6F_FeKc9tikme7Q6-CmfwpdyCnFtos7BqHMw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Gig Harbor, WA 98332</desc>
+  </wpt>
+  <wpt lat="47.691768300" lon="-122.404807700">
+    <ele>0.000000</ele>
+    <name>Golden Gardens</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/0O-oNM1s1tNcThncPyrZF4pp-YG5wqNqchmnD7Rf1w5KIcJ1UjN3bWHFkZuKG-1rgKZSQthAEIWHfUqLS-OFvBQ3w53Mn8Ojdp-YUzLkm9iopNwHkTh-hdR8ilPs9pcT2Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Seattle, WA 98117</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/0O-oNM1s1tNcThncPyrZF4pp-YG5wqNqchmnD7Rf1w5KIcJ1UjN3bWHFkZuKG-1rgKZSQthAEIWHfUqLS-OFvBQ3w53Mn8Ojdp-YUzLkm9iopNwHkTh-hdR8ilPs9pcT2Q&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Seattle, WA 98117</desc>
+  </wpt>
+  <wpt lat="48.715501800" lon="-121.151647200">
+    <ele>0.000000</ele>
+    <name>Gorge Lake Campground</name>
+    <cmt>Gorge Lake Campground</cmt>
+    <desc>Gorge Lake Campground</desc>
+  </wpt>
+  <wpt lat="48.715806400" lon="-121.152420100">
+    <ele>0.000000</ele>
+    <name>Gorge Lake</name>
+    <cmt>Gorge Lake</cmt>
+    <desc>Gorge Lake</desc>
+  </wpt>
+  <wpt lat="48.702592000" lon="-121.007477400">
+    <ele>0.000000</ele>
+    <name>Gorge Lake Falls Overlook</name>
+    <cmt>Rockport, WA 98283</cmt>
+    <desc>Rockport, WA 98283</desc>
+  </wpt>
+  <wpt lat="47.338004900" lon="-122.832175200">
+    <ele>0.000000</ele>
+    <name>Grapeview, Fair Harbor Marina</name>
+    <cmt>Port of Grapeview launch.  Parking and restroom are across the street.</cmt>
+    <desc>Port of Grapeview launch.  Parking and restroom are across the street.</desc>
+  </wpt>
+  <wpt lat="46.793684300" lon="-124.098450800">
+    <ele>0.000000</ele>
+    <name>Grayland</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/ml37dP_-eZqgEtqNEeo5dHc2OIM8QjCvSvr8XcPdVCP8P41plrz_ZduorcHFChRg6chnJ75YH3jIxvSBSH37gZeRGvH2fQLPylEjj4IVUe8pgkEnsUtwIUwBW4doNvUoew&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Grayland, WA 98547</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/ml37dP_-eZqgEtqNEeo5dHc2OIM8QjCvSvr8XcPdVCP8P41plrz_ZduorcHFChRg6chnJ75YH3jIxvSBSH37gZeRGvH2fQLPylEjj4IVUe8pgkEnsUtwIUwBW4doNvUoew&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Grayland, WA 98547</desc>
+  </wpt>
+  <wpt lat="47.405515700" lon="-122.273696600">
+    <ele>0.000000</ele>
+    <name>Green River, Kent</name>
+    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/yWqmS7yIQuzWjdNpiu8Y1vQFYjpR2EWbBd0nnCOXiukcOLgLkiiaTnLbQI-F99qUuZb_jwGgI1__EJwHW4QxmpiqERz68XG-IRo5VzN_K0L9g9NmINfhIDzVl8yGYzHyLj7kapvuiAlj&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Kent, WA 98032</cmt>
+    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/yWqmS7yIQuzWjdNpiu8Y1vQFYjpR2EWbBd0nnCOXiukcOLgLkiiaTnLbQI-F99qUuZb_jwGgI1__EJwHW4QxmpiqERz68XG-IRo5VzN_K0L9g9NmINfhIDzVl8yGYzHyLj7kapvuiAlj&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Kent, WA 98032</desc>
+  </wpt>
+  <wpt lat="48.580511400" lon="-122.636701200">
+    <ele>0.000000</ele>
+    <name>Guemes Island, Hunts Park</name>
+    <cmt>Guemes Island, Hunts Park</cmt>
+    <desc>Guemes Island, Hunts Park</desc>
+  </wpt>
+  <wpt lat="47.518824000" lon="-122.507794100">
+    <ele>0.000000</ele>
+    <name>Harper</name>
+    <cmt>Low tides  can make this a poor launch</cmt>
+    <desc>Low tides  can make this a poor launch</desc>
+  </wpt>
+  <wpt lat="48.262427400" lon="-122.748227200">
+    <ele>0.000000</ele>
+    <name>Hastie Lake (salt water)</name>
+    <cmt>Whidbey Island (West)</cmt>
+    <desc>Whidbey Island (West)</desc>
+  </wpt>
+  <wpt lat="48.333972800" lon="-124.661822300">
+    <ele>0.000000</ele>
+    <name>Hobuck Beach</name>
+    <cmt>Camping, surfing, paddling.  Get your tribal permits.</cmt>
+    <desc>Camping, surfing, paddling.  Get your tribal permits.</desc>
+  </wpt>
+  <wpt lat="47.272838000" lon="-122.759943200">
+    <ele>0.000000</ele>
+    <name>Home, Key Peninsula</name>
+    <cmt>Home, Key Peninsula</cmt>
+    <desc>Home, Key Peninsula</desc>
+  </wpt>
+  <wpt lat="47.865666800" lon="-122.641454300">
+    <ele>0.000000</ele>
+    <name>Hood Head</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/REqR_oOYBgJ9Z5CKrt_aOqFnWatFfSu63j4hou_tdW2lQFLy8s0ZZZPipvbPqBn0JW5b9qYUPC9Cdm9TEY0LYj97RUxsz7r4Hfk3dHOvLq1vANt2mj6k1tgbRuK2e0ruFA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Port Hadlock, WA 98365</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/REqR_oOYBgJ9Z5CKrt_aOqFnWatFfSu63j4hou_tdW2lQFLy8s0ZZZPipvbPqBn0JW5b9qYUPC9Cdm9TEY0LYj97RUxsz7r4Hfk3dHOvLq1vANt2mj6k1tgbRuK2e0ruFA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Port Hadlock, WA 98365</desc>
+  </wpt>
+  <wpt lat="47.289840100" lon="-122.684283800">
+    <ele>0.000000</ele>
+    <name>Horsehead Bay</name>
+    <cmt>Gig Harbor, WA 98335.&lt;br&gt;&lt;br&gt;Unload  boats @ ramp&lt;br&gt;and park on street~ 2 blocks East.&lt;br&gt;No toilet facility/ use on way to launch.</cmt>
+    <desc>Gig Harbor, WA 98335.&lt;br&gt;&lt;br&gt;Unload  boats @ ramp&lt;br&gt;and park on street~ 2 blocks East.&lt;br&gt;No toilet facility/ use on way to launch.</desc>
+  </wpt>
+  <wpt lat="47.052815100" lon="-124.030752400">
+    <ele>0.000000</ele>
+    <name>Humptulips River @ Hwy 109</name>
+    <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/j2BAajDlEodAAp819f92fAWPVwTTYZ5QxRKH4wAQzq6pXRAyNHn1b-9APP0Y8rnR2NZqLj2o7D2_UUBpB-mdX1k0Q-eEWbU1c2fpZcpvoDu6NNxj2skB244i8ybEs2EEXQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Hoquiam, WA 98550</cmt>
+    <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/j2BAajDlEodAAp819f92fAWPVwTTYZ5QxRKH4wAQzq6pXRAyNHn1b-9APP0Y8rnR2NZqLj2o7D2_UUBpB-mdX1k0Q-eEWbU1c2fpZcpvoDu6NNxj2skB244i8ybEs2EEXQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Hoquiam, WA 98550</desc>
+  </wpt>
+  <wpt lat="47.597880000" lon="-122.595180200">
+    <ele>0.000000</ele>
+    <name>Ilahee State Park</name>
+    <cmt>A fee may be asked for.</cmt>
+    <desc>A fee may be asked for.</desc>
+  </wpt>
+  <wpt lat="46.285986500" lon="-124.052038300">
+    <ele>0.000000</ele>
+    <name>Ilwaco</name>
+    <cmt>Cape Disappointment State Park</cmt>
+    <desc>Cape Disappointment State Park</desc>
+  </wpt>
+  <wpt lat="47.169964900" lon="-123.104510400">
+    <ele>0.000000</ele>
+    <name>Isabella Lake, WDFW</name>
+    <cmt>Shelton, WA</cmt>
+    <desc>Shelton, WA</desc>
+  </wpt>
+  <wpt lat="47.283829700" lon="-122.888387300">
+    <ele>0.000000</ele>
+    <name>Jarrell's Cove Marina</name>
+    <cmt>Shelton, WA 98584</cmt>
+    <desc>Shelton, WA 98584</desc>
+  </wpt>
+  <wpt lat="47.281849300" lon="-122.885449200">
+    <ele>0.000000</ele>
+    <name>Jarrell's Cove State Park</name>
+    <cmt>Shelton, WA 98584</cmt>
+    <desc>Shelton, WA 98584</desc>
+  </wpt>
+  <wpt lat="47.224231100" lon="-122.808866700">
+    <ele>0.000000</ele>
+    <name>Joemma Beach State Park</name>
+    <cmt>+47° 13' 29.75&quot;, -122° 48' 36.32&quot;&lt;br&gt;&lt;br&gt;Discover pass&lt;br&gt;CMT campsite, picnic pavilions, &lt;br&gt;parking is uphill from launch</cmt>
+    <desc>+47° 13' 29.75&quot;, -122° 48' 36.32&quot;&lt;br&gt;&lt;br&gt;Discover pass&lt;br&gt;CMT campsite, picnic pavilions, &lt;br&gt;parking is uphill from launch</desc>
+  </wpt>
+  <wpt lat="46.901932000" lon="-123.985948400">
+    <ele>0.000000</ele>
+    <name>John's River, WDFW</name>
+    <cmt>John's River, WDFW</cmt>
+    <desc>John's River, WDFW</desc>
+  </wpt>
+  <wpt lat="46.012089400" lon="-122.836997400">
+    <ele>0.000000</ele>
+    <name>Kalama</name>
+    <cmt>Kalama</cmt>
+    <desc>Kalama</desc>
+  </wpt>
+  <wpt lat="46.987659500" lon="-122.206034400">
+    <ele>0.000000</ele>
+    <name>Kapowsin, Lake</name>
+    <cmt>north of Eatonville, WA&lt;br&gt;Discover pass or WFDW permit required</cmt>
+    <desc>north of Eatonville, WA&lt;br&gt;Discover pass or WFDW permit required</desc>
+  </wpt>
+  <wpt lat="47.101373600" lon="-123.085605700">
+    <ele>0.000000</ele>
+    <name>Kennedy Creek</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/y3RuaKtpStRUrbH1n9t52SsgNLu9wTar-1soMrEP86gGAqz8BQ4ChT34IvO32tyh5N0l5jQ1qVEDr8nBHhO3cBmsAsxFYL5EuI9a3Qkn6v-CPUHhJC2TNl9Phrr22UxrZA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;+47° 6' 39.07&quot;, -123° 4' 24.84&quot;</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/y3RuaKtpStRUrbH1n9t52SsgNLu9wTar-1soMrEP86gGAqz8BQ4ChT34IvO32tyh5N0l5jQ1qVEDr8nBHhO3cBmsAsxFYL5EuI9a3Qkn6v-CPUHhJC2TNl9Phrr22UxrZA&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;+47° 6' 39.07&quot;, -123° 4' 24.84&quot;</desc>
+  </wpt>
+  <wpt lat="48.133566500" lon="-122.367675200">
+    <ele>0.000000</ele>
+    <name>Kayak Pt</name>
+    <cmt>CMT site.&lt;br&gt;  Camping by reservation only. Reseve site &lt;br&gt;72 hours in advance by calling Kayak Point &lt;br&gt;County Park, 360.652.7992. Camping limited &lt;br&gt;to one night.  &lt;br&gt;site is at the northern boundary of the park, just after parking and picnic tables.&lt;br&gt;Coordinates:&lt;br&gt;  N 48˚08.010'   W 122˚22.050'</cmt>
+    <desc>CMT site.&lt;br&gt;  Camping by reservation only. Reseve site &lt;br&gt;72 hours in advance by calling Kayak Point &lt;br&gt;County Park, 360.652.7992. Camping limited &lt;br&gt;to one night.  &lt;br&gt;site is at the northern boundary of the park, just after parking and picnic tables.&lt;br&gt;Coordinates:&lt;br&gt;  N 48˚08.010'   W 122˚22.050'</desc>
+  </wpt>
+  <wpt lat="47.702685900" lon="-122.617818600">
+    <ele>0.000000</ele>
+    <name>Keyport</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/hUhNgX5einHRBjYvQt1XFkBebZSHsmf5zjsHE9BOxsjs4d3YJdKu9YnQrENt1GhCIpYhi5-vSEf3wAchvYsiPSoJXOa-U6eQbxOMQVGMF7C3lLED-FDddEJ2Np35IJqRyg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Keyport, WA 98345</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/hUhNgX5einHRBjYvQt1XFkBebZSHsmf5zjsHE9BOxsjs4d3YJdKu9YnQrENt1GhCIpYhi5-vSEf3wAchvYsiPSoJXOa-U6eQbxOMQVGMF7C3lLED-FDddEJ2Np35IJqRyg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Keyport, WA 98345</desc>
+  </wpt>
+  <wpt lat="47.395298600" lon="-123.198538200">
+    <ele>0.000000</ele>
+    <name>Kokanee, Lake</name>
+    <cmt>WDFW permit required&lt;br&gt;Hoodsport, WA</cmt>
+    <desc>WDFW permit required&lt;br&gt;Hoodsport, WA</desc>
+  </wpt>
+  <wpt lat="48.384373000" lon="-122.501807200">
+    <ele>0.000000</ele>
+    <name>LaConner, Pioneer Park</name>
+    <cmt>LaConner, Pioneer Park</cmt>
+    <desc>LaConner, Pioneer Park</desc>
+  </wpt>
+  <wpt lat="48.070824000" lon="-123.904323400">
+    <ele>0.000000</ele>
+    <name>Lake Cresent - Fairholm Campground</name>
+    <cmt>Lake Cresent - Fairholm Campground</cmt>
+    <desc>Lake Cresent - Fairholm Campground</desc>
+  </wpt>
+  <wpt lat="47.502100600" lon="-123.313827200">
+    <ele>0.000000</ele>
+    <name>Lake Cushman - Bear Gulch</name>
+    <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/quZ85WzVdATVdMRBqApz8AdhjIbima2dPQwNHyijieZWWcVcZS82xooXQpTXMnxnKir3oqz3ePdQIrq0amv0coBnW6wmDAVG8U5CFSJADP4zgNGsQuupPD1_7aAmUkFEGg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;WA</cmt>
+    <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/quZ85WzVdATVdMRBqApz8AdhjIbima2dPQwNHyijieZWWcVcZS82xooXQpTXMnxnKir3oqz3ePdQIrq0amv0coBnW6wmDAVG8U5CFSJADP4zgNGsQuupPD1_7aAmUkFEGg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;WA</desc>
+  </wpt>
+  <wpt lat="47.482024800" lon="-123.245358200">
+    <ele>0.000000</ele>
+    <name>Lake Cushman - Mt Rose</name>
+    <cmt>Private property.  Permit can be obtained only from a resident.  Print this map, it can be hard to find.</cmt>
+    <desc>Private property.  Permit can be obtained only from a resident.  Print this map, it can be hard to find.</desc>
+  </wpt>
+  <wpt lat="46.998899700" lon="-122.717413700">
+    <ele>0.000000</ele>
+    <name>Lake St Clair</name>
+    <cmt>WDFW permit or Discover pass required</cmt>
+    <desc>WDFW permit or Discover pass required</desc>
+  </wpt>
+  <wpt lat="47.251009600" lon="-122.164149400">
+    <ele>0.000000</ele>
+    <name>Lake Tapps Park</name>
+    <cmt>Lake Tapps Park</cmt>
+    <desc>Lake Tapps Park</desc>
+  </wpt>
+  <wpt lat="47.625025300" lon="-122.339372200">
+    <ele>0.000000</ele>
+    <name>Lake Union - Kenmore Air</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/dL8bCExThS0j4-mOO7xjWQ3BEvkDfNC-ErzbiehffFqdpqjLp1kr264eGFoHLOvkzkppqApl8ICM8cgbdBYXVM50lEWBpwGQHeGxvhRa5RN4rSnJ_zqK6iXMKv0AQu4FTw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Seattle, WA 98109&lt;br&gt; &lt;br&gt; aka South Lake Union park&lt;br&gt;http://www.atlakeunionpark.org/sites/default/files/LUP_overview_labels%20copy.pdf&lt;br&gt; &lt;br&gt;Recent construction may have changed the launch (11/2010)</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/dL8bCExThS0j4-mOO7xjWQ3BEvkDfNC-ErzbiehffFqdpqjLp1kr264eGFoHLOvkzkppqApl8ICM8cgbdBYXVM50lEWBpwGQHeGxvhRa5RN4rSnJ_zqK6iXMKv0AQu4FTw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Seattle, WA 98109&lt;br&gt; &lt;br&gt; aka South Lake Union park&lt;br&gt;http://www.atlakeunionpark.org/sites/default/files/LUP_overview_labels%20copy.pdf&lt;br&gt; &lt;br&gt;Recent construction may have changed the launch (11/2010)</desc>
+  </wpt>
+  <wpt lat="47.574181100" lon="-122.209060500">
+    <ele>0.000000</ele>
+    <name>Lake Washington Enatai Beach</name>
+    <cmt>Enatai Beach park&lt;br&gt;&lt;br&gt;47.579324, -122.196511</cmt>
+    <desc>Enatai Beach park&lt;br&gt;&lt;br&gt;47.579324, -122.196511</desc>
+  </wpt>
+  <wpt lat="47.752309000" lon="-122.250581200">
+    <ele>0.000000</ele>
+    <name>Lake Washington, North</name>
+    <cmt>Kenmore, WDFW</cmt>
+    <desc>Kenmore, WDFW</desc>
+  </wpt>
+  <wpt lat="47.494588300" lon="-122.227321000">
+    <ele>0.000000</ele>
+    <name>Lake Washington, South</name>
+    <cmt>Renton</cmt>
+    <desc>Renton</desc>
+  </wpt>
+  <wpt lat="47.194505600" lon="-122.153140400">
+    <ele>0.000000</ele>
+    <name>Lake Tapps - Alan Yorke Park</name>
+    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/nYKwAr_pqd3kTLYwQTv5wCqo-WJOx5muP_NRjQEGh27riGdtlealZoKUFBi60EtKe5AhlixtGrE4FJU-KbKYJGzNSLTPDP_gMapDjten-ffFfH5-2_SddwEjI4pLLMRXEg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Sumner, WA 98391</cmt>
+    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/nYKwAr_pqd3kTLYwQTv5wCqo-WJOx5muP_NRjQEGh27riGdtlealZoKUFBi60EtKe5AhlixtGrE4FJU-KbKYJGzNSLTPDP_gMapDjten-ffFfH5-2_SddwEjI4pLLMRXEg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Sumner, WA 98391</desc>
+  </wpt>
+  <wpt lat="47.390981300" lon="-123.593616400">
+    <ele>0.000000</ele>
+    <name>Lake Wynoochee</name>
+    <cmt>Near  Coho Campground</cmt>
+    <desc>Near  Coho Campground</desc>
+  </wpt>
+  <wpt lat="48.036142800" lon="-122.403917200">
+    <ele>0.000000</ele>
+    <name>Langley</name>
+    <cmt>Whidbey Island (East)</cmt>
+    <desc>Whidbey Island (East)</desc>
+  </wpt>
+  <wpt lat="48.651355100" lon="-122.489984200">
+    <ele>0.000000</ele>
+    <name>Larabee State Park</name>
+    <cmt>Larabee State Park</cmt>
+    <desc>Larabee State Park</desc>
+  </wpt>
+  <wpt lat="47.247033100" lon="-122.929672900">
+    <ele>0.000000</ele>
+    <name>Latimer's Landing</name>
+    <cmt>at Harstine Island bridge.</cmt>
+    <desc>at Harstine Island bridge.</desc>
+  </wpt>
+  <wpt lat="47.584472400" lon="-122.643320400">
+    <ele>0.000000</ele>
+    <name>Lion's Field - Bremerton</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/nBOYWDa0fo5yDWwUr96_k958-BeJzucp0IXDBxW2tRstb6T6shpA3HBENSzJlySfujbJYhjutA1asw3i0D3x-GhSFgprJNwk4dewhohVUpfC1S4b1qYTQIjryjc7oQ6Stw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Bremerton, WA 98310&lt;br&gt;Lebo Blvd at Lion's Field Marina @47.586015,-122.644772</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/nBOYWDa0fo5yDWwUr96_k958-BeJzucp0IXDBxW2tRstb6T6shpA3HBENSzJlySfujbJYhjutA1asw3i0D3x-GhSFgprJNwk4dewhohVUpfC1S4b1qYTQIjryjc7oQ6Stw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Bremerton, WA 98310&lt;br&gt;Lebo Blvd at Lion's Field Marina @47.586015,-122.644772</desc>
+  </wpt>
+  <wpt lat="47.191603100" lon="-122.746290300">
+    <ele>0.000000</ele>
+    <name>Longbranch, 72nd St</name>
+    <cmt>Longbranch, 72nd St</cmt>
+    <desc>Longbranch, 72nd St</desc>
+  </wpt>
+  <wpt lat="46.414325600" lon="-123.936252300">
+    <ele>0.000000</ele>
+    <name>Long Island (Willapa Bay)</name>
+    <cmt>VERY tidal dependent  Naselle, WA 98638</cmt>
+    <desc>VERY tidal dependent  Naselle, WA 98638</desc>
+  </wpt>
+  <wpt lat="47.022160000" lon="-122.783734200">
+    <ele>0.000000</ele>
+    <name>Long Lake Park (Olympia)</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/BpkoUGea7nTvY4uLKEXE3G3bTaF0NREtTGrWvdZvmV1El9HkI0G_oqMuCqmkTYzb9Fo9Hda7ubboIxoXoOTeDdELy5vx4oi-l0C6qgLEEEkHxLzOd-5qbR56kdwtwJ2qJQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Olympia, WA 98503</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/BpkoUGea7nTvY4uLKEXE3G3bTaF0NREtTGrWvdZvmV1El9HkI0G_oqMuCqmkTYzb9Fo9Hda7ubboIxoXoOTeDdELy5vx4oi-l0C6qgLEEEkHxLzOd-5qbR56kdwtwJ2qJQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Olympia, WA 98503</desc>
+  </wpt>
+  <wpt lat="47.021198500" lon="-122.781894100">
+    <ele>0.000000</ele>
+    <name>Long Lake (Olympia) WDFW</name>
+    <cmt>closed in winter&lt;br&gt;WDFW permit or Discover pass</cmt>
+    <desc>closed in winter&lt;br&gt;WDFW permit or Discover pass</desc>
+  </wpt>
+  <wpt lat="47.482740500" lon="-122.595086200">
+    <ele>0.000000</ele>
+    <name>Long Lake (Port Orchard) WDFW</name>
+    <cmt>Port Orchard, WA 98367</cmt>
+    <desc>Port Orchard, WA 98367</desc>
+  </wpt>
+  <wpt lat="48.511771700" lon="-122.913644200">
+    <ele>0.000000</ele>
+    <name>Lopez Island, Fisherman Bay</name>
+    <cmt>Lopez Island, Fisherman Bay</cmt>
+    <desc>Lopez Island, Fisherman Bay</desc>
+  </wpt>
+  <wpt lat="48.460478900" lon="-122.862371100">
+    <ele>0.000000</ele>
+    <name>Lopez Island, Hunter Bay</name>
+    <cmt>Lopez Island, Hunter Bay</cmt>
+    <desc>Lopez Island, Hunter Bay</desc>
+  </wpt>
+  <wpt lat="48.556557300" lon="-122.893367300">
+    <ele>0.000000</ele>
+    <name>Lopez Island, Odlin Co Park</name>
+    <cmt>Lopez Island, Odlin Co Park</cmt>
+    <desc>Lopez Island, Odlin Co Park</desc>
+  </wpt>
+  <wpt lat="48.507862700" lon="-122.933450200">
+    <ele>0.000000</ele>
+    <name>Lopez Island, Otis Perkins Park</name>
+    <cmt>Lopez Island, Otis Perkins Park</cmt>
+    <desc>Lopez Island, Otis Perkins Park</desc>
+  </wpt>
+  <wpt lat="47.100884800" lon="-122.727242000">
+    <ele>0.000000</ele>
+    <name>Luhr Beach</name>
+    <cmt>WDFW permit or Discover Pass required.</cmt>
+    <desc>WDFW permit or Discover Pass required.</desc>
+  </wpt>
+  <wpt lat="48.730492200" lon="-122.672782200">
+    <ele>0.000000</ele>
+    <name>Lummi Island Ferry</name>
+    <cmt>Lummi Island Ferry</cmt>
+    <desc>Lummi Island Ferry</desc>
+  </wpt>
+  <wpt lat="47.555568400" lon="-122.543188100">
+    <ele>0.000000</ele>
+    <name>Manchester</name>
+    <cmt>Pomeroy park.  On street parking.</cmt>
+    <desc>Pomeroy park.  On street parking.</desc>
+  </wpt>
+  <wpt lat="47.576236300" lon="-122.547254200">
+    <ele>0.000000</ele>
+    <name>Manchester State Park</name>
+    <cmt>Overnight parking (fee)</cmt>
+    <desc>Overnight parking (fee)</desc>
+  </wpt>
+  <wpt lat="47.572197700" lon="-122.604951000">
+    <ele>0.000000</ele>
+    <name>Manette Gazebo</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/8pcjCThjZZFvuhgofPn_c6BQF1HhvG6D3F-g0c4znMOKFdsvVoMLR7UFJwpNF1-0xe0vduSE0B9ThRrmI2OyF5gY4OzUbmqjjX-1qwKVRnP_JD4u3OXb7jd7Vv2MuSexrw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Bremerton, WA 98310</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/8pcjCThjZZFvuhgofPn_c6BQF1HhvG6D3F-g0c4znMOKFdsvVoMLR7UFJwpNF1-0xe0vduSE0B9ThRrmI2OyF5gY4OzUbmqjjX-1qwKVRnP_JD4u3OXb7jd7Vv2MuSexrw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Bremerton, WA 98310</desc>
+  </wpt>
+  <wpt lat="47.676216800" lon="-122.561813300">
+    <ele>0.000000</ele>
+    <name>Manzanita Bay</name>
+    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/a8_7qzU3bL_lCskn7FqoShWPCDtP5BzmKMlYZbo2wkm9-gJn8Z7g6ptu-BPTmB_jSVAySaisBwjsbgSpZsMrfz9L4yyAwdcmiM3q4P8tSFAdNPNf550jOKjCC6wdx1CaIQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;End of Dock st.Very limited parking&lt;br&gt;Seattle, WA 98110</cmt>
+    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/a8_7qzU3bL_lCskn7FqoShWPCDtP5BzmKMlYZbo2wkm9-gJn8Z7g6ptu-BPTmB_jSVAySaisBwjsbgSpZsMrfz9L4yyAwdcmiM3q4P8tSFAdNPNf550jOKjCC6wdx1CaIQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;End of Dock st.Very limited parking&lt;br&gt;Seattle, WA 98110</desc>
+  </wpt>
+  <wpt lat="48.526407700" lon="-121.427955000">
+    <ele>0.000000</ele>
+    <name>Marblemount Cascade River Rd</name>
+    <cmt>Skagit river launchDiscover pass or WDFW permit&lt;br&gt;Marblemount, WA 98267</cmt>
+    <desc>Skagit river launchDiscover pass or WDFW permit&lt;br&gt;Marblemount, WA 98267</desc>
+  </wpt>
+  <wpt lat="48.056197700" lon="-122.683339400">
+    <ele>0.000000</ele>
+    <name>Marrowstone Island, East Beach Park</name>
+    <cmt>Marrowstone Island, East Beach Park</cmt>
+    <desc>Marrowstone Island, East Beach Park</desc>
+  </wpt>
+  <wpt lat="47.354939100" lon="-122.922453200">
+    <ele>0.000000</ele>
+    <name>Mason Lake</name>
+    <cmt>Belfair, WA 98528</cmt>
+    <desc>Belfair, WA 98528</desc>
+  </wpt>
+  <wpt lat="47.950873800" lon="-122.686021500">
+    <ele>0.000000</ele>
+    <name>Mats Mats Bay</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/lkCqQ75w77097jJNtIwmam0hyEFc56CKlr51LP3wQqAgUvEkyaJSCMA9QFO0XEdy_piVrqMUhROENXgTTdcc6gGvgWWPQWosKLwCDY2kwMTmwtIpGRMniYfw4amd4Y-oXw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;+47° 57' 3.74&quot;, -122° 41' 10.54&quot;</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/lkCqQ75w77097jJNtIwmam0hyEFc56CKlr51LP3wQqAgUvEkyaJSCMA9QFO0XEdy_piVrqMUhROENXgTTdcc6gGvgWWPQWosKLwCDY2kwMTmwtIpGRMniYfw4amd4Y-oXw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;+47° 57' 3.74&quot;, -122° 41' 10.54&quot;</desc>
+  </wpt>
+  <wpt lat="46.534023100" lon="-122.545065400">
+    <ele>0.000000</ele>
+    <name>Mayfield Lake - Beach Rd</name>
+    <cmt>Mayfield Lake - Beach Rd</cmt>
+    <desc>Mayfield Lake - Beach Rd</desc>
+  </wpt>
+  <wpt lat="46.548457600" lon="-122.519402800">
+    <ele>0.000000</ele>
+    <name>Mayfield Lake - Fish Hatchery</name>
+    <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/783ZTE1KRZr0xEJk_vQCymwvy5npXNubsXe9FXykmpGS_YNFmAqGT3gq3E0kLqtIQ_aRt1hV_b4OrOfSWK6wYQCxUCyU6HBgmlJC9ABG7wpnu60SibYWq-bL5D5QMtJT0g&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Mossyrock, WA 98564</cmt>
+    <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/783ZTE1KRZr0xEJk_vQCymwvy5npXNubsXe9FXykmpGS_YNFmAqGT3gq3E0kLqtIQ_aRt1hV_b4OrOfSWK6wYQCxUCyU6HBgmlJC9ABG7wpnu60SibYWq-bL5D5QMtJT0g&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Mossyrock, WA 98564</desc>
+  </wpt>
+  <wpt lat="46.561279500" lon="-122.534444000">
+    <ele>0.000000</ele>
+    <name>Mayfield Lake Ike Kinswa park</name>
+    <cmt>Ike Kinswa state park&lt;br&gt;873 State Route 122&lt;br&gt;Silver Creek, WA 98585-9731&lt;br&gt;&lt;br&gt;Discover pass required&lt;br&gt;&lt;br&gt;Nice beach &amp;  Bathrooms</cmt>
+    <desc>Ike Kinswa state park&lt;br&gt;873 State Route 122&lt;br&gt;Silver Creek, WA 98585-9731&lt;br&gt;&lt;br&gt;Discover pass required&lt;br&gt;&lt;br&gt;Nice beach &amp;  Bathrooms</desc>
+  </wpt>
+  <wpt lat="46.556204200" lon="-122.524595400">
+    <ele>0.000000</ele>
+    <name>Mayfield Lake State Park Boat Launch</name>
+    <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/Q54YFeY0_LC2Fk80N78qNlgbhtVkrS1jG93LhNFFHT7hmzwWgSBFd5mIT1yfuKfgBnjvNy_T5vt7B0rj5Eg_365BQ77AscFKBVvrSRwy95M1jsJmajpWEFOhLD9MphiCqQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Silver Creek, WA 98585&lt;br&gt;Fee to launch</cmt>
+    <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/Q54YFeY0_LC2Fk80N78qNlgbhtVkrS1jG93LhNFFHT7hmzwWgSBFd5mIT1yfuKfgBnjvNy_T5vt7B0rj5Eg_365BQ77AscFKBVvrSRwy95M1jsJmajpWEFOhLD9MphiCqQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Silver Creek, WA 98585&lt;br&gt;Fee to launch</desc>
+  </wpt>
+  <wpt lat="47.572993500" lon="-122.214596600">
+    <ele>0.000000</ele>
+    <name>Mercer Island</name>
+    <cmt>Mercer Island, WA 98040&lt;br&gt; &lt;br&gt;Parking fee</cmt>
+    <desc>Mercer Island, WA 98040&lt;br&gt; &lt;br&gt;Parking fee</desc>
+  </wpt>
+  <wpt lat="47.580462500" lon="-122.187066200">
+    <ele>0.000000</ele>
+    <name>Mercer Slough</name>
+    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/5MZJJl4zJfyDq32jWjHi_sYsxmhxbAkyGx5EDeUY2b4YdiNaUWFLH1EpKB7Bix8D7oC1t3m6e8WciRfAs5nN6D5Ch-jS3uCnYK45KBACfNSRT_vJNhmOQMCKcJB137mwUw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Bellevue, WA 98004</cmt>
+    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/5MZJJl4zJfyDq32jWjHi_sYsxmhxbAkyGx5EDeUY2b4YdiNaUWFLH1EpKB7Bix8D7oC1t3m6e8WciRfAs5nN6D5Ch-jS3uCnYK45KBACfNSRT_vJNhmOQMCKcJB137mwUw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Bellevue, WA 98004</desc>
+  </wpt>
+  <wpt lat="46.909049400" lon="-122.915760400">
+    <ele>0.000000</ele>
+    <name>Millersylvania State Park</name>
+    <cmt>Tumwater, WA 98512</cmt>
+    <desc>Tumwater, WA 98512</desc>
+  </wpt>
+  <wpt lat="46.723182400" lon="-122.169706400">
+    <ele>0.000000</ele>
+    <name>Mineral Lake</name>
+    <cmt>WDFW permit required or Discover pass</cmt>
+    <desc>WDFW permit required or Discover pass</desc>
+  </wpt>
+  <wpt lat="47.650074000" lon="-122.842544100">
+    <ele>0.000000</ele>
+    <name>Misery Point - Seabeck</name>
+    <cmt>Seabeck, WA 98380&lt;br&gt; &lt;br&gt;WDFW permit needed</cmt>
+    <desc>Seabeck, WA 98380&lt;br&gt; &lt;br&gt;WDFW permit needed</desc>
+  </wpt>
+  <wpt lat="46.965288700" lon="-123.590891400">
+    <ele>0.000000</ele>
+    <name>Montesano, Friends Landing</name>
+    <cmt>Montesano, Friends Landing</cmt>
+    <desc>Montesano, Friends Landing</desc>
+  </wpt>
+  <wpt lat="47.051879800" lon="-122.995527100">
+    <ele>0.000000</ele>
+    <name>Mud Bay launch</name>
+    <cmt>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/hjtEm5MWk765FL5iWEMtyOD_rQfE8u7bZIcbeeldcoYdQ1_Hrnwk6OvxJ-On4999vhgEOzql91yqHlj2EsdlXGGY9-6X4epw6X3f8c_0PBjURzqmdkD-F1aYmAneG8tPyw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Olympia, WA 98502</cmt>
+    <desc>&lt;img src=&quot;https://lh4.googleusercontent.com/proxy/hjtEm5MWk765FL5iWEMtyOD_rQfE8u7bZIcbeeldcoYdQ1_Hrnwk6OvxJ-On4999vhgEOzql91yqHlj2EsdlXGGY9-6X4epw6X3f8c_0PBjURzqmdkD-F1aYmAneG8tPyw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Olympia, WA 98502</desc>
+  </wpt>
+  <wpt lat="47.050102600" lon="-122.997779700">
+    <ele>0.000000</ele>
+    <name>Mud Bay launch parking</name>
+    <cmt>Walk the path on the NW side of the fence to get to the launch (about 400 feet)</cmt>
+    <desc>Walk the path on the NW side of the fence to get to the launch (about 400 feet)</desc>
+  </wpt>
+  <wpt lat="47.946174400" lon="-122.307068200">
+    <ele>0.000000</ele>
+    <name>Mukilteo Lighthouse Park</name>
+    <cmt>Mukilteo Lighthouse Park</cmt>
+    <desc>Mukilteo Lighthouse Park</desc>
+  </wpt>
+  <wpt lat="48.055738300" lon="-122.691965200">
+    <ele>0.000000</ele>
+    <name>Mystery Bay, Marrowstone Island</name>
+    <cmt>Mystery Bay, Marrowstone Island</cmt>
+    <desc>Mystery Bay, Marrowstone Island</desc>
+  </wpt>
+  <wpt lat="47.241796100" lon="-123.319119400">
+    <ele>0.000000</ele>
+    <name>Nahwatzel, Lake:  WDFW</name>
+    <cmt>Nahwatzel, Lake:  WDFW</cmt>
+    <desc>Nahwatzel, Lake:  WDFW</desc>
+  </wpt>
+  <wpt lat="48.377575100" lon="-124.631395300">
+    <ele>0.000000</ele>
+    <name>Neah Bay</name>
+    <cmt>Get your tribal permit in town.</cmt>
+    <desc>Get your tribal permit in town.</desc>
+  </wpt>
+  <wpt lat="47.388152400" lon="-122.812772200">
+    <ele>0.000000</ele>
+    <name>North Bay, Case Inlet, WDFW</name>
+    <cmt>47.38985686, -122.8118415&lt;br&gt;Watch out for low tides.</cmt>
+    <desc>47.38985686, -122.8118415&lt;br&gt;Watch out for low tides.</desc>
+  </wpt>
+  <wpt lat="46.747837200" lon="-123.884583000">
+    <ele>0.000000</ele>
+    <name>North River, Willapa Bay</name>
+    <cmt>Aberdeen, WA 98520&lt;br&gt;&lt;br&gt;Washington State Department of Fish and Wildlife (WSDFW) boat ramp and toilet at the mouth of the North River: Paddlers can go 8-10 miles up this scenic river, or paddle 7 miles southeast up the Willapa River to South Bend.</cmt>
+    <desc>Aberdeen, WA 98520&lt;br&gt;&lt;br&gt;Washington State Department of Fish and Wildlife (WSDFW) boat ramp and toilet at the mouth of the North River: Paddlers can go 8-10 miles up this scenic river, or paddle 7 miles southeast up the Willapa River to South Bend.</desc>
+  </wpt>
+  <wpt lat="48.021247100" lon="-122.728743200">
+    <ele>0.000000</ele>
+    <name>Oak Bay Park</name>
+    <cmt>Oak Bay Park</cmt>
+    <desc>Oak Bay Park</desc>
+  </wpt>
+  <wpt lat="48.280794100" lon="-122.657032200">
+    <ele>0.000000</ele>
+    <name>Oak Harbor</name>
+    <cmt>Oak Harbor</cmt>
+    <desc>Oak Harbor</desc>
+  </wpt>
+  <wpt lat="48.282907100" lon="-122.632356200">
+    <ele>0.000000</ele>
+    <name>Oak Harbor Marina</name>
+    <cmt>Oak Harbor Marina</cmt>
+    <desc>Oak Harbor Marina</desc>
+  </wpt>
+  <wpt lat="47.252654500" lon="-123.029558400">
+    <ele>0.000000</ele>
+    <name>Oakland Bay</name>
+    <cmt>WDFW permit required.&lt;br&gt;&lt;br&gt;Can be a little muddy at lower tides.</cmt>
+    <desc>WDFW permit required.&lt;br&gt;&lt;br&gt;Can be a little muddy at lower tides.</desc>
+  </wpt>
+  <wpt lat="47.207623700" lon="-123.062732700">
+    <ele>0.000000</ele>
+    <name>Oakland Bay - Shorecrest</name>
+    <cmt>Shelton, WA 98584</cmt>
+    <desc>Shelton, WA 98584</desc>
+  </wpt>
+  <wpt lat="46.998431400" lon="-124.148297000">
+    <ele>0.000000</ele>
+    <name>Ocean Shores, Duck Lake</name>
+    <cmt>Ocean Shores, Duck Lake</cmt>
+    <desc>Ocean Shores, Duck Lake</desc>
+  </wpt>
+  <wpt lat="46.947508500" lon="-124.131023500">
+    <ele>0.000000</ele>
+    <name>Ocean Shores, Grays Harbor</name>
+    <cmt>Ocean City, WA 98569</cmt>
+    <desc>Ocean City, WA 98569</desc>
+  </wpt>
+  <wpt lat="46.888134800" lon="-122.266759400">
+    <ele>0.000000</ele>
+    <name>Ohop Lake, WDFW</name>
+    <cmt>Open only during fishing season</cmt>
+    <desc>Open only during fishing season</desc>
+  </wpt>
+  <wpt lat="47.419688400" lon="-122.540646100">
+    <ele>0.000000</ele>
+    <name>Olalla</name>
+    <cmt>Olalla</cmt>
+    <desc>Olalla</desc>
+  </wpt>
+  <wpt lat="48.076157500" lon="-122.787097700">
+    <ele>0.000000</ele>
+    <name>Old Fort Townsend </name>
+    <cmt>Port Townsend Bay</cmt>
+    <desc>Port Townsend Bay</desc>
+  </wpt>
+  <wpt lat="47.052698300" lon="-122.911692100">
+    <ele>0.000000</ele>
+    <name>Olympia Rotary Park</name>
+    <cmt>West Bay  Olympia New park on west bay drive</cmt>
+    <desc>West Bay  Olympia New park on west bay drive</desc>
+  </wpt>
+  <wpt lat="47.126914200" lon="-122.853482200">
+    <ele>0.000000</ele>
+    <name>Olympia Woodard Bay</name>
+    <cmt>Limited parking.. Discover pass&lt;br&gt;Seasonal launch Apr 15th to Sept 1st&lt;br&gt;Tide dependent-can be muddy. Need 5-8 ft tide.&lt;br&gt;Woodard Bay Natural Resources Conservation Area. 3 Hiking trails. &lt;br&gt;Habitat for shorebirds and songbirds, harbor seals, river otters, bald eagles, a large maternity colony of bats, and one of the most significant heron rookeries in the state.</cmt>
+    <desc>Limited parking.. Discover pass&lt;br&gt;Seasonal launch Apr 15th to Sept 1st&lt;br&gt;Tide dependent-can be muddy. Need 5-8 ft tide.&lt;br&gt;Woodard Bay Natural Resources Conservation Area. 3 Hiking trails. &lt;br&gt;Habitat for shorebirds and songbirds, harbor seals, river otters, bald eagles, a large maternity colony of bats, and one of the most significant heron rookeries in the state.</desc>
+  </wpt>
+  <wpt lat="47.164844600" lon="-122.809252900">
+    <ele>0.000000</ele>
+    <name>Olympia Zittel's Marina</name>
+    <cmt>Launch fee. Can negotiate group rate. Long term secure parking available.</cmt>
+    <desc>Launch fee. Can negotiate group rate. Long term secure parking available.</desc>
+  </wpt>
+  <wpt lat="48.713108900" lon="-122.889858600">
+    <ele>0.000000</ele>
+    <name>Orcas Island (North)</name>
+    <cmt>Bartwood Lodge</cmt>
+    <desc>Bartwood Lodge</desc>
+  </wpt>
+  <wpt lat="48.618753900" lon="-123.001127200">
+    <ele>0.000000</ele>
+    <name>Orcas Island, Deer Harbor</name>
+    <cmt>Orcas Island, Deer Harbor</cmt>
+    <desc>Orcas Island, Deer Harbor</desc>
+  </wpt>
+  <wpt lat="48.518849700" lon="-123.012488800">
+    <ele>0.000000</ele>
+    <name>Orcas Island, Jackson Beach</name>
+    <cmt>Orcas Island, Jackson Beach</cmt>
+    <desc>Orcas Island, Jackson Beach</desc>
+  </wpt>
+  <wpt lat="48.712429400" lon="-122.906263200">
+    <ele>0.000000</ele>
+    <name>Orcas Island, North Beach</name>
+    <cmt>Orcas Island, North Beach</cmt>
+    <desc>Orcas Island, North Beach</desc>
+  </wpt>
+  <wpt lat="48.604059300" lon="-122.816350200">
+    <ele>0.000000</ele>
+    <name>Orcas Island, Obstruction Pass</name>
+    <cmt>Orcas Island, Obstruction Pass</cmt>
+    <desc>Orcas Island, Obstruction Pass</desc>
+  </wpt>
+  <wpt lat="47.313452900" lon="-122.528744400">
+    <ele>0.000000</ele>
+    <name>Owens Beach</name>
+    <cmt>Tacoma, WA 98407</cmt>
+    <desc>Tacoma, WA 98407</desc>
+  </wpt>
+  <wpt lat="46.614663000" lon="-123.901233400">
+    <ele>0.000000</ele>
+    <name>Palix River, WDFW</name>
+    <cmt>Palix River, WDFW</cmt>
+    <desc>Palix River, WDFW</desc>
+  </wpt>
+  <wpt lat="46.998489900" lon="-122.758591400">
+    <ele>0.000000</ele>
+    <name>Pattison Lake, WDFW</name>
+    <cmt>Lacey, WA</cmt>
+    <desc>Lacey, WA</desc>
+  </wpt>
+  <wpt lat="47.257337400" lon="-122.744407200">
+    <ele>0.000000</ele>
+    <name>Penrose Point State Park</name>
+    <cmt>Discover pass   State park.&lt;br&gt;beach, camping, picnic, toilets,parking.&lt;br&gt;CMT camp site.</cmt>
+    <desc>Discover pass   State park.&lt;br&gt;beach, camping, picnic, toilets,parking.&lt;br&gt;CMT camp site.</desc>
+  </wpt>
+  <wpt lat="47.657915500" lon="-122.921562200">
+    <ele>0.000000</ele>
+    <name>Pleasant Harbor</name>
+    <cmt>WDFW permit  or Discover pass required.</cmt>
+    <desc>WDFW permit  or Discover pass required.</desc>
+  </wpt>
+  <wpt lat="47.306073400" lon="-122.514371500">
+    <ele>0.000000</ele>
+    <name>Point Defiance</name>
+    <cmt>Vashon Island ferry landing&lt;br&gt;Tacoma, WA 98407</cmt>
+    <desc>Vashon Island ferry landing&lt;br&gt;Tacoma, WA 98407</desc>
+  </wpt>
+  <wpt lat="47.909777000" lon="-122.529402200">
+    <ele>0.000000</ele>
+    <name>Point No Point</name>
+    <cmt>Point No Point</cmt>
+    <desc>Point No Point</desc>
+  </wpt>
+  <wpt lat="47.264755000" lon="-122.599378300">
+    <ele>0.000000</ele>
+    <name>Point Fosdick</name>
+    <cmt>Gig Harbor, WA 98335&lt;br&gt;&lt;br&gt;east side of Wollochet bay</cmt>
+    <desc>Gig Harbor, WA 98335&lt;br&gt;&lt;br&gt;east side of Wollochet bay</desc>
+  </wpt>
+  <wpt lat="48.031551600" lon="-122.751875200">
+    <ele>0.000000</ele>
+    <name>Port Hadlock</name>
+    <cmt>Port Hadlock</cmt>
+    <desc>Port Hadlock</desc>
+  </wpt>
+  <wpt lat="47.057624100" lon="-122.899053600">
+    <ele>0.000000</ele>
+    <name>Port of Olympia Boat Launch</name>
+    <cmt>Tumwater, WA 98501</cmt>
+    <desc>Tumwater, WA 98501</desc>
+  </wpt>
+  <wpt lat="47.541454800" lon="-122.640831700">
+    <ele>0.000000</ele>
+    <name>Port Orchard</name>
+    <cmt>Port Orchard</cmt>
+    <desc>Port Orchard</desc>
+  </wpt>
+  <wpt lat="48.142437400" lon="-122.781979900">
+    <ele>0.000000</ele>
+    <name>Port Townsend, North Beach</name>
+    <cmt>Port Townsend, North Beach</cmt>
+    <desc>Port Townsend, North Beach</desc>
+  </wpt>
+  <wpt lat="48.117789000" lon="-122.752282200">
+    <ele>0.000000</ele>
+    <name>Port Townsend, Pt Hudson Marina</name>
+    <cmt>Port Townsend, Pt Hudson Marina</cmt>
+    <desc>Port Townsend, Pt Hudson Marina</desc>
+  </wpt>
+  <wpt lat="48.114741600" lon="-122.754024400">
+    <ele>0.000000</ele>
+    <name>Port Townsend - Water Street</name>
+    <cmt>Port Townsend, WA 98368</cmt>
+    <desc>Port Townsend, WA 98368</desc>
+  </wpt>
+  <wpt lat="47.360397600" lon="-123.155773100">
+    <ele>0.000000</ele>
+    <name>Potlatch State Park</name>
+    <cmt>Shelton, WA 98584&lt;br&gt;&lt;br&gt;Discover Pass required.&lt;br&gt;Good bathrooms.</cmt>
+    <desc>Shelton, WA 98584&lt;br&gt;&lt;br&gt;Discover Pass required.&lt;br&gt;Good bathrooms.</desc>
+  </wpt>
+  <wpt lat="47.731126000" lon="-122.644897600">
+    <ele>0.000000</ele>
+    <name>Poulsbo</name>
+    <cmt>Poulsbo, WA 98370</cmt>
+    <desc>Poulsbo, WA 98370</desc>
+  </wpt>
+  <wpt lat="47.378759400" lon="-122.642376900">
+    <ele>0.000000</ele>
+    <name>Purdy Spit</name>
+    <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/_Ra5kfsVh6DcUGdpRYBHixKebX8kPWcgyVQmGlBkp-7NQ7bpltcWtyaAwKjLtBm9mGw_Cx1v7sNKaXL-PMLX3RpgwcWncpZcL3yxUixNh_jxzzf4oZF_ARFTRIs0nzDAxg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Gig Harbor, WA 98329</cmt>
+    <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/_Ra5kfsVh6DcUGdpRYBHixKebX8kPWcgyVQmGlBkp-7NQ7bpltcWtyaAwKjLtBm9mGw_Cx1v7sNKaXL-PMLX3RpgwcWncpZcL3yxUixNh_jxzzf4oZF_ARFTRIs0nzDAxg&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Gig Harbor, WA 98329</desc>
+  </wpt>
+  <wpt lat="47.801228900" lon="-122.867188000">
+    <ele>0.000000</ele>
+    <name>Quilcene Marina</name>
+    <cmt>Quilcene Marina</cmt>
+    <desc>Quilcene Marina</desc>
+  </wpt>
+  <wpt lat="47.762385000" lon="-122.384969900">
+    <ele>0.000000</ele>
+    <name>Richmond Beach Park</name>
+    <cmt>Richmond Beach Park</cmt>
+    <desc>Richmond Beach Park</desc>
+  </wpt>
+  <wpt lat="46.517207200" lon="-122.413401300">
+    <ele>0.000000</ele>
+    <name>Riffe Lake west</name>
+    <cmt>Mossyrock Park</cmt>
+    <desc>Mossyrock Park</desc>
+  </wpt>
+  <wpt lat="46.471679800" lon="-122.169084200">
+    <ele>0.000000</ele>
+    <name>Riffe Lake east</name>
+    <cmt>Taidnapam Park</cmt>
+    <desc>Taidnapam Park</desc>
+  </wpt>
+  <wpt lat="48.608390900" lon="-123.152725800">
+    <ele>0.000000</ele>
+    <name>Roche Harbor</name>
+    <cmt>parking fee. Launch fee. Overnite parking</cmt>
+    <desc>parking fee. Launch fee. Overnite parking</desc>
+  </wpt>
+  <wpt lat="48.484571000" lon="-121.594985000">
+    <ele>0.000000</ele>
+    <name>Rockport Howard Miller Steel Head park</name>
+    <cmt>Skagit river take out &amp; launch accessriver front park&lt;br&gt;WDFW permit or Discover pass</cmt>
+    <desc>Skagit river take out &amp; launch accessriver front park&lt;br&gt;WDFW permit or Discover pass</desc>
+  </wpt>
+  <wpt lat="48.644163900" lon="-122.872950000">
+    <ele>0.000000</ele>
+    <name>Rosario</name>
+    <cmt>Rosario</cmt>
+    <desc>Rosario</desc>
+  </wpt>
+  <wpt lat="47.856996300" lon="-122.607577300">
+    <ele>0.000000</ele>
+    <name>Salisbury Point</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/cAZrRKrMgfF9K6VDPTBDuPEecenB4szJcBbw1JuMGBeXcXAf0ZPDR0KhHdXbDh3MYF0jihIwwv_STywD3n0QTvuFuAahv7dyro3_4HLsmCeRTtsQSrwwaVLB6xoDL1FDXQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Poulsbo, WA 98370</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/cAZrRKrMgfF9K6VDPTBDuPEecenB4szJcBbw1JuMGBeXcXAf0ZPDR0KhHdXbDh3MYF0jihIwwv_STywD3n0QTvuFuAahv7dyro3_4HLsmCeRTtsQSrwwaVLB6xoDL1FDXQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Poulsbo, WA 98370</desc>
+  </wpt>
+  <wpt lat="48.166414000" lon="-123.704874500">
+    <ele>0.000000</ele>
+    <name>Salt Creek County Park</name>
+    <cmt>Port Angeles, WA 98363</cmt>
+    <desc>Port Angeles, WA 98363</desc>
+  </wpt>
+  <wpt lat="47.371943900" lon="-122.324545400">
+    <ele>0.000000</ele>
+    <name>Saltwater State Park</name>
+    <cmt>Saltwater State Park</cmt>
+    <desc>Saltwater State Park</desc>
+  </wpt>
+  <wpt lat="47.587425200" lon="-122.378071700">
+    <ele>0.000000</ele>
+    <name>Salty's beach north of</name>
+    <cmt>beach north of Salty's restaurant&lt;br&gt;On street parking is limited.</cmt>
+    <desc>beach north of Salty's restaurant&lt;br&gt;On street parking is limited.</desc>
+  </wpt>
+  <wpt lat="48.540896400" lon="-123.159484800">
+    <ele>0.000000</ele>
+    <name>San Juan County Park</name>
+    <cmt>Mandatory whale watching safety class is required to launch (fee)</cmt>
+    <desc>Mandatory whale watching safety class is required to launch (fee)</desc>
+  </wpt>
+  <wpt lat="48.612540200" lon="-123.098416000">
+    <ele>0.000000</ele>
+    <name>San Juan Island, Reuben Tarte Park</name>
+    <cmt>San Juan Island, Reuben Tarte Park</cmt>
+    <desc>San Juan Island, Reuben Tarte Park</desc>
+  </wpt>
+  <wpt lat="48.570473600" lon="-123.167472000">
+    <ele>0.000000</ele>
+    <name>San Juan Island, Snug Harbor</name>
+    <cmt>San Juan Island, Snug Harbor</cmt>
+    <desc>San Juan Island, Snug Harbor</desc>
+  </wpt>
+  <wpt lat="48.528976100" lon="-122.980013100">
+    <ele>0.000000</ele>
+    <name>San Juan Island, Turn Point</name>
+    <cmt>San Juan Island, Turn Point</cmt>
+    <desc>San Juan Island, Turn Point</desc>
+  </wpt>
+  <wpt lat="47.478426500" lon="-122.363085800">
+    <ele>0.000000</ele>
+    <name>Seahurst Park</name>
+    <cmt>Seahurst Park</cmt>
+    <desc>Seahurst Park</desc>
+  </wpt>
+  <wpt lat="47.660763200" lon="-122.373651400">
+    <ele>0.000000</ele>
+    <name>Seattle 14th Ave NW Boat ramp</name>
+    <cmt>FREE       Hours :4 a.m. - 11:30 p.m.&lt;br&gt;In the shadow of the Ballard Bridge . A 1996 renovation added a new dock, a resurfaced ramp, and improved parking. portable restroom. The site offers two piers, two launch lanes, and is one of Seattle's free of charge launch ramps.</cmt>
+    <desc>FREE       Hours :4 a.m. - 11:30 p.m.&lt;br&gt;In the shadow of the Ballard Bridge . A 1996 renovation added a new dock, a resurfaced ramp, and improved parking. portable restroom. The site offers two piers, two launch lanes, and is one of Seattle's free of charge launch ramps.</desc>
+  </wpt>
+  <wpt lat="47.641959400" lon="-122.311263500">
+    <ele>0.000000</ele>
+    <name>Seattle, Arboretum (MOHAI)</name>
+    <cmt>Seattle, Arboretum (MOHAI)</cmt>
+    <desc>Seattle, Arboretum (MOHAI)</desc>
+  </wpt>
+  <wpt lat="48.982174300" lon="-122.785692500">
+    <ele>0.000000</ele>
+    <name>Semiahmoo County Park</name>
+    <cmt>Semiahmoo County Park</cmt>
+    <desc>Semiahmoo County Park</desc>
+  </wpt>
+  <wpt lat="48.040963500" lon="-123.026340300">
+    <ele>0.000000</ele>
+    <name>Sequim Bay State Park</name>
+    <cmt>Sequim, WA 98382</cmt>
+    <desc>Sequim, WA 98382</desc>
+  </wpt>
+  <wpt lat="48.095301100" lon="-123.045780700">
+    <ele>0.000000</ele>
+    <name>Sequim, Port Williams Launch</name>
+    <cmt>Sequim, Port Williams Launch</cmt>
+    <desc>Sequim, Port Williams Launch</desc>
+  </wpt>
+  <wpt lat="47.238088200" lon="-123.110164400">
+    <ele>0.000000</ele>
+    <name>Shelton High School Pool</name>
+    <cmt>The waypoint is on the pool building itself.</cmt>
+    <desc>The waypoint is on the pool building itself.</desc>
+  </wpt>
+  <wpt lat="47.202703800" lon="-123.060586900">
+    <ele>0.000000</ele>
+    <name>Shelton Walker County Park</name>
+    <cmt>Shelton, WA 98584&lt;br&gt;&lt;br&gt;Barthrooms &amp;Picnic pavilions&lt;br&gt;Long haul to beach from parking&lt;br&gt;CMT campsite</cmt>
+    <desc>Shelton, WA 98584&lt;br&gt;&lt;br&gt;Barthrooms &amp;Picnic pavilions&lt;br&gt;Long haul to beach from parking&lt;br&gt;CMT campsite</desc>
+  </wpt>
+  <wpt lat="47.213264200" lon="-123.091904100">
+    <ele>0.000000</ele>
+    <name>Shelton - Yacht Club</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/0NFiAeCavmk5iDKK3PM_m0Kp4qG9rXkiz20N3QvZ8iZD8eiB-xIjGxNt26l47crunkH7TZUzxW3dS5wodg6Wgn8-CkLhsopdrPiqUxlwVbfi1i-9cQVqGW2Y6s6wDVqM0A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Shelton, WA 98584</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/0NFiAeCavmk5iDKK3PM_m0Kp4qG9rXkiz20N3QvZ8iZD8eiB-xIjGxNt26l47crunkH7TZUzxW3dS5wodg6Wgn8-CkLhsopdrPiqUxlwVbfi1i-9cQVqGW2Y6s6wDVqM0A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Shelton, WA 98584</desc>
+  </wpt>
+  <wpt lat="47.866933800" lon="-122.663148100">
+    <ele>0.000000</ele>
+    <name>Shine Launch, Hood Canal</name>
+    <cmt>Hicks Co Park. Boat ramp, restrooms.  No fees.</cmt>
+    <desc>Hicks Co Park. Boat ramp, restrooms.  No fees.</desc>
+  </wpt>
+  <wpt lat="47.868928700" lon="-122.634514900">
+    <ele>0.000000</ele>
+    <name>Shine Tidelands State park North</name>
+    <cmt>Day-use only, picnic tables, restrooms and great views of Hood Canal.. Discover pass</cmt>
+    <desc>Day-use only, picnic tables, restrooms and great views of Hood Canal.. Discover pass</desc>
+  </wpt>
+  <wpt lat="47.643323400" lon="-122.695108600">
+    <ele>0.000000</ele>
+    <name>Silverdale</name>
+    <cmt>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/sv5hx91DmXwzx4ApUUmeFgMUJIbdxR19zGDP_a3kN-5Cl02pM5OHkioUU6Q0m_34aIc4bgE7CYznBIiT1bq2dYy8qK_m9G86CLmynBHiK8e6YQ1776zfsJwO4iAdNL4Y0g&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Silverdale, WA 98383</cmt>
+    <desc>&lt;img src=&quot;https://lh3.googleusercontent.com/proxy/sv5hx91DmXwzx4ApUUmeFgMUJIbdxR19zGDP_a3kN-5Cl02pM5OHkioUU6Q0m_34aIc4bgE7CYznBIiT1bq2dYy8qK_m9G86CLmynBHiK8e6YQ1776zfsJwO4iAdNL4Y0g&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Silverdale, WA 98383</desc>
+  </wpt>
+  <wpt lat="46.314023800" lon="-122.766643400">
+    <ele>0.000000</ele>
+    <name>Silver Lake</name>
+    <cmt>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/tKDfrytIGoyi9p-PI_dXarDXxQUpg1C6koqnuiXSn_CmVKunYRZYwQD9Q9CZgl7BvOYEBptWNQ3edIIxLm3qBRGD8qRJR6jXsCQJRMtOogRzthM1t63HQe8QJw0Tr3CzQw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Silver Lake, WA 98645</cmt>
+    <desc>&lt;img src=&quot;https://lh5.googleusercontent.com/proxy/tKDfrytIGoyi9p-PI_dXarDXxQUpg1C6koqnuiXSn_CmVKunYRZYwQD9Q9CZgl7BvOYEBptWNQ3edIIxLm3qBRGD8qRJR6jXsCQJRMtOogRzthM1t63HQe8QJw0Tr3CzQw&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Silver Lake, WA 98645</desc>
+  </wpt>
+  <wpt lat="48.341435800" lon="-122.350605700">
+    <ele>0.000000</ele>
+    <name>Skagit River Conway</name>
+    <cmt>North side of Fir Is bridge</cmt>
+    <desc>North side of Fir Is bridge</desc>
+  </wpt>
+  <wpt lat="48.323900700" lon="-122.373436800">
+    <ele>0.000000</ele>
+    <name>Skagit River Delta</name>
+    <cmt>WDFW permit  or Discover pass required..Closes @ dark.</cmt>
+    <desc>WDFW permit  or Discover pass required..Closes @ dark.</desc>
+  </wpt>
+  <wpt lat="46.268297400" lon="-123.459962400">
+    <ele>0.000000</ele>
+    <name>Skamokawa Vista Park</name>
+    <cmt>Parking fee  $3 in 2010</cmt>
+    <desc>Parking fee  $3 in 2010</desc>
+  </wpt>
+  <wpt lat="48.397019200" lon="-122.539337200">
+    <ele>0.000000</ele>
+    <name>Snee-oosh Beach</name>
+    <cmt>West of LaConner</cmt>
+    <desc>West of LaConner</desc>
+  </wpt>
+  <wpt lat="47.138592600" lon="-122.632366100">
+    <ele>0.000000</ele>
+    <name>Tacoma Solo Point</name>
+    <cmt>Fort Lewis. Day Use only.&lt;br&gt;DoD base pass recommended/NOT required.&lt;br&gt;No Bathrooms.&lt;br&gt;Lots of parking. Launch at all tides.</cmt>
+    <desc>Fort Lewis. Day Use only.&lt;br&gt;DoD base pass recommended/NOT required.&lt;br&gt;No Bathrooms.&lt;br&gt;Lots of parking. Launch at all tides.</desc>
+  </wpt>
+  <wpt lat="47.512425400" lon="-122.496892900">
+    <ele>0.000000</ele>
+    <name>Southworth</name>
+    <cmt>Day parking available on Sebring St.  Overnight parking across the street in ferry parking lot (fee)</cmt>
+    <desc>Day parking available on Sebring St.  Overnight parking across the street in ferry parking lot (fee)</desc>
+  </wpt>
+  <wpt lat="47.260672400" lon="-122.969230200">
+    <ele>0.000000</ele>
+    <name>Spencer Lake - WDFW</name>
+    <cmt>WDFW permit required</cmt>
+    <desc>WDFW permit required</desc>
+  </wpt>
+  <wpt lat="47.570372900" lon="-122.278523300">
+    <ele>0.000000</ele>
+    <name>Stan Sayres Pits</name>
+    <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/bIYXUxdEAs5jSmFjg-TLjolb8oSgLJ0zBF7_G10tOv_4idFYy6yyWrxVvLNELQo1Em2G-HksfXVt1Gbxm80s2GAVOI0Hy8IWVHJhWZxd3iXZ-p4UsOCPlYn6fwRmJRHRWQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Seattle, WA 98118</cmt>
+    <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/bIYXUxdEAs5jSmFjg-TLjolb8oSgLJ0zBF7_G10tOv_4idFYy6yyWrxVvLNELQo1Em2G-HksfXVt1Gbxm80s2GAVOI0Hy8IWVHJhWZxd3iXZ-p4UsOCPlYn6fwRmJRHRWQ&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Seattle, WA 98118</desc>
+  </wpt>
+  <wpt lat="47.869941600" lon="-119.114198800">
+    <ele>0.000000</ele>
+    <name>Steamboat Rock State Park</name>
+    <cmt>Steamboat Rock State Park</cmt>
+    <desc>Steamboat Rock State Park</desc>
+  </wpt>
+  <wpt lat="47.172116500" lon="-122.603517000">
+    <ele>0.000000</ele>
+    <name>Steilacoom</name>
+    <cmt>Parking fee</cmt>
+    <desc>Parking fee</desc>
+  </wpt>
+  <wpt lat="47.051835100" lon="-123.103952400">
+    <ele>0.000000</ele>
+    <name>Summit Lake, WDFW</name>
+    <cmt>Only open during fishing season&lt;br&gt;WDFW permit or Discover Pass</cmt>
+    <desc>Only open during fishing season&lt;br&gt;WDFW permit or Discover Pass</desc>
+  </wpt>
+  <wpt lat="47.591444200" lon="-119.388504400">
+    <ele>0.000000</ele>
+    <name>Sun Lakes State Park</name>
+    <cmt>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/JNB8YirHBVFVyn1ATcRCAk7MS2qoW0kY5n3J8daz_iv3jVjFySbiclSzhbdPhj_TBpGlOtRZ1CiQqx7PQWGJ7C_bMXDUGCqI7TUFPnHxum8qCsGQf8jjKPQlo5XZWwel3A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Coulee City, WA 99115</cmt>
+    <desc>&lt;img src=&quot;https://lh6.googleusercontent.com/proxy/JNB8YirHBVFVyn1ATcRCAk7MS2qoW0kY5n3J8daz_iv3jVjFySbiclSzhbdPhj_TBpGlOtRZ1CiQqx7PQWGJ7C_bMXDUGCqI7TUFPnHxum8qCsGQf8jjKPQlo5XZWwel3A&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Coulee City, WA 99115</desc>
+  </wpt>
+  <wpt lat="47.727013000" lon="-122.551632200">
+    <ele>0.000000</ele>
+    <name>Suquamish</name>
+    <cmt>Suquamish, WA 98392</cmt>
+    <desc>Suquamish, WA 98392</desc>
+  </wpt>
+  <wpt lat="47.747360400" lon="-122.557972700">
+    <ele>0.000000</ele>
+    <name>Suquamish, Miller Bay</name>
+    <cmt>Suquamish, Miller Bay</cmt>
+    <desc>Suquamish, Miller Bay</desc>
+  </wpt>
+  <wpt lat="48.453100500" lon="-122.513201200">
+    <ele>0.000000</ele>
+    <name>Swinomish Channel (North)</name>
+    <cmt>Swinomish Channel (North)</cmt>
+    <desc>Swinomish Channel (North)</desc>
+  </wpt>
+  <wpt lat="47.261715400" lon="-122.438981400">
+    <ele>0.000000</ele>
+    <name>Tacoma, Dock St. Park </name>
+    <cmt>Tacoma, Dock St. Park </cmt>
+    <desc>Tacoma, Dock St. Park </desc>
+  </wpt>
+  <wpt lat="47.243394200" lon="-122.431213700">
+    <ele>0.000000</ele>
+    <name>Tacoma -Thea Foss</name>
+    <cmt>launch is under the SR 509 bridge over the Thea Foss waterway in downtown Tacoma (intersection of E D St. and E 21st St.). &lt;br&gt;Nearby bathrooms at park across water on Dock st&lt;br&gt;Free parking</cmt>
+    <desc>launch is under the SR 509 bridge over the Thea Foss waterway in downtown Tacoma (intersection of E D St. and E 21st St.). &lt;br&gt;Nearby bathrooms at park across water on Dock st&lt;br&gt;Free parking</desc>
+  </wpt>
+  <wpt lat="47.384945100" lon="-123.112466200">
+    <ele>0.000000</ele>
+    <name>Tahuya, Menard's Landing</name>
+    <cmt>Tahuya, Menard's Landing</cmt>
+    <desc>Tahuya, Menard's Landing</desc>
+  </wpt>
+  <wpt lat="47.370803400" lon="-123.050329200">
+    <ele>0.000000</ele>
+    <name>Tahuya River</name>
+    <cmt>Launch from open field but park out near road (launch is an emergency helicopter pad)</cmt>
+    <desc>Launch from open field but park out near road (launch is an emergency helicopter pad)</desc>
+  </wpt>
+  <wpt lat="47.246770300" lon="-122.554786400">
+    <ele>0.000000</ele>
+    <name>Titlow Beach Park</name>
+    <cmt>Tacoma, WA 98406</cmt>
+    <desc>Tacoma, WA 98406</desc>
+  </wpt>
+  <wpt lat="47.692085700" lon="-122.805347200">
+    <ele>0.000000</ele>
+    <name>Tonados Peninsula--Coyle</name>
+    <cmt>Tonados Peninsula--Coyle</cmt>
+    <desc>Tonados Peninsula--Coyle</desc>
+  </wpt>
+  <wpt lat="47.607146800" lon="-122.660465500">
+    <ele>0.000000</ele>
+    <name>Tracyton</name>
+    <cmt>Tracyton, WA 98311</cmt>
+    <desc>Tracyton, WA 98311</desc>
+  </wpt>
+  <wpt lat="47.609099500" lon="-122.984604900">
+    <ele>0.000000</ele>
+    <name>Triton Cove, Hood Canal</name>
+    <cmt>Day use state park = Discover pass.&lt;br&gt;Toilets, parking, day launch.&lt;br&gt;CMT camp site only.</cmt>
+    <desc>Day use state park = Discover pass.&lt;br&gt;Toilets, parking, day launch.&lt;br&gt;CMT camp site only.</desc>
+  </wpt>
+  <wpt lat="48.060098200" lon="-122.277617200">
+    <ele>0.000000</ele>
+    <name>Tulalip Bay</name>
+    <cmt>Tulalip Bay</cmt>
+    <desc>Tulalip Bay</desc>
+  </wpt>
+  <wpt lat="47.023019700" lon="-122.903301700">
+    <ele>0.000000</ele>
+    <name>Tumwater Historical Park</name>
+    <cmt>Capitol Lake is currently closed due to New Zealand Mud Snail infestation (11/2010)</cmt>
+    <desc>Capitol Lake is currently closed due to New Zealand Mud Snail infestation (11/2010)</desc>
+  </wpt>
+  <wpt lat="47.379086200" lon="-122.970593000">
+    <ele>0.000000</ele>
+    <name>Twanoh State Park</name>
+    <cmt>The waypoint is on a beach with limited parking.  You can also launch from the boat launch parking lot further from the west.  The signs ask for a fee when using the boat launch.Discover pass  Mar 2012</cmt>
+    <desc>The waypoint is on a beach with limited parking.  You can also launch from the boat launch parking lot further from the west.  The signs ask for a fee when using the boat launch.Discover pass  Mar 2012</desc>
+  </wpt>
+  <wpt lat="47.357584500" lon="-123.101924900">
+    <ele>0.000000</ele>
+    <name>Union</name>
+    <cmt>Skokomish River Delta</cmt>
+    <desc>Skokomish River Delta</desc>
+  </wpt>
+  <wpt lat="45.667025200" lon="-122.704625400">
+    <ele>0.000000</ele>
+    <name>Vancouver Lake, WDFW</name>
+    <cmt>Vancouver Lake, WDFW</cmt>
+    <desc>Vancouver Lake, WDFW</desc>
+  </wpt>
+  <wpt lat="47.509548700" lon="-122.464685100">
+    <ele>0.000000</ele>
+    <name>Vashon Island (North)</name>
+    <cmt>Vashon Island (North)</cmt>
+    <desc>Vashon Island (North)</desc>
+  </wpt>
+  <wpt lat="47.340065600" lon="-122.776052200">
+    <ele>0.000000</ele>
+    <name>Vaughn Bay</name>
+    <cmt>Vaughn Bay</cmt>
+    <desc>Vaughn Bay</desc>
+  </wpt>
+  <wpt lat="48.673014100" lon="-122.316809900">
+    <ele>0.000000</ele>
+    <name>Whatcom Lake, South Bay, WDFW</name>
+    <cmt>Whatcom Lake, South Bay, WDFW</cmt>
+    <desc>Whatcom Lake, South Bay, WDFW</desc>
+  </wpt>
+  <wpt lat="48.126053900" lon="-122.560601500">
+    <ele>0.000000</ele>
+    <name>Whidbey Is. Beach Combers Rd.</name>
+    <cmt>Whidbey Is. Beach Combers Rd.</cmt>
+    <desc>Whidbey Is. Beach Combers Rd.</desc>
+  </wpt>
+  <wpt lat="48.354566900" lon="-122.596993200">
+    <ele>0.000000</ele>
+    <name>Whidbey Island, Dugalla Bay</name>
+    <cmt>Whidbey Island, Dugalla Bay</cmt>
+    <desc>Whidbey Island, Dugalla Bay</desc>
+  </wpt>
+  <wpt lat="48.231905800" lon="-122.767110200">
+    <ele>0.000000</ele>
+    <name>Whidbey Island, Libbey Park</name>
+    <cmt>Whidbey Island, Libbey Park</cmt>
+    <desc>Whidbey Island, Libbey Park</desc>
+  </wpt>
+  <wpt lat="48.239980400" lon="-122.680753900">
+    <ele>0.000000</ele>
+    <name>Whidbey Island, Monroe Landing</name>
+    <cmt>Whidbey Island, Monroe Landing</cmt>
+    <desc>Whidbey Island, Monroe Landing</desc>
+  </wpt>
+  <wpt lat="48.371089800" lon="-122.666323600">
+    <ele>0.000000</ele>
+    <name>Whidbey Island, Moran Beach</name>
+    <cmt>Whidbey Island, Moran Beach</cmt>
+    <desc>Whidbey Island, Moran Beach</desc>
+  </wpt>
+  <wpt lat="48.307090700" lon="-122.718111600">
+    <ele>0.000000</ele>
+    <name>Whidbey Island, West Beach Rd</name>
+    <cmt>Whidbey Island, West Beach Rd</cmt>
+    <desc>Whidbey Island, West Beach Rd</desc>
+  </wpt>
+  <wpt lat="47.289753300" lon="-122.610978500">
+    <ele>0.000000</ele>
+    <name>Wollochet Bay</name>
+    <cmt>Wollochet Bay</cmt>
+    <desc>Wollochet Bay</desc>
+  </wpt>
+</gpx>

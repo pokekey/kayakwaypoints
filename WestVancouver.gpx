@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.6" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2018-04-05T15:50:05Z</time>
+    <bounds maxlat="50.3846827" maxlon="-125.2559667" minlat="48.8733000" minlon="-127.9715657"/>
+  </metadata>
+
+  <wpt lat="49.1754815" lon="-126.0097487">
+    <time>2013-05-13T13:50:36Z</time>
+    <name>Ahous Bay Beach</name>
+    <cmt>Sand beach</cmt>
+    <desc>Sand beach</desc>
+    <sym>Skiing Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.4126685" lon="-126.4695097">
+    <time>2013-05-13T13:35:17Z</time>
+    <name>Atonis Beach</name>
+    <cmt>Sand Beach</cmt>
+    <desc>Sand Beach</desc>
+    <sym>Skiing Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.4476243" lon="-126.5507162">
+    <time>2013-05-13T13:34:34Z</time>
+    <name>Barchester Cove</name>
+    <cmt>Sand beach</cmt>
+    <desc>Sand beach</desc>
+    <sym>Skiing Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.4752194" lon="-126.4226996">
+    <time>2013-05-13T13:41:28Z</time>
+    <name>Boat Basin</name>
+    <cmt>Sand beach</cmt>
+    <desc>Sand beach</desc>
+    <sym>Skiing Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8915255" lon="-125.3784572">
+    <time>2011-06-13T23:13:54Z</time>
+    <name>ClarkCGe</name>
+    <cmt>Pacific Rim National Park Reserve</cmt>
+    <desc>Pacific Rim National Park Reserve</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8733000" lon="-125.3423000">
+    <ele>0.0000000</ele>
+    <time>2011-06-13T23:16:35Z</time>
+    <name>CooperWtr</name>
+    <cmt>Pacific Ocean</cmt>
+    <desc>Pacific Ocean</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9219000" lon="-125.3243333">
+    <ele>15.5448000</ele>
+    <time>2011-06-13T23:04:08Z</time>
+    <name>DoddCGe</name>
+    <cmt>Dodd Island</cmt>
+    <desc>Dodd Island</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.5380801" lon="-126.5617128">
+    <time>2013-05-13T13:37:33Z</time>
+    <name>Escalante Beech 1</name>
+    <cmt>Sand beech</cmt>
+    <desc>Sand beech</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.5236981" lon="-126.5576649">
+    <time>2013-05-13T13:37:15Z</time>
+    <name>Escalante Beech 2</name>
+    <cmt>Sand Beach</cmt>
+    <desc>Sand Beach</desc>
+    <sym>Skiing Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.2683735" lon="-126.1391572">
+    <time>2013-05-13T13:50:05Z</time>
+    <name>Flores Beach</name>
+    <cmt>Sand Beach</cmt>
+    <desc>Sand Beach</desc>
+    <sym>Skiing Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9182000" lon="-125.2559667">
+    <time>2011-06-13T23:06:03Z</time>
+    <name>GibralCG</name>
+    <cmt>Pacific Rim National Park Reserve</cmt>
+    <desc>Pacific Rim National Park Reserve</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8751333" lon="-125.3206500">
+    <time>2011-06-13T23:14:57Z</time>
+    <name>GilbertCG</name>
+    <cmt>Pacific Ocean</cmt>
+    <desc>Pacific Ocean</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.6791458" lon="-126.1165237">
+    <time>2013-05-13T13:40:13Z</time>
+    <name>Gold River</name>
+    <cmt>Cartographic Line</cmt>
+    <desc>Cartographic Line</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9511755" lon="-125.3112824">
+    <time>2011-06-13T23:09:55Z</time>
+    <name>HandCG</name>
+    <cmt>Hand Island</cmt>
+    <desc>Hand Island</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.4081727" lon="-126.5661474">
+    <time>2013-05-13T13:34:23Z</time>
+    <name>Homais Cove</name>
+    <cmt>Sufr landing</cmt>
+    <desc>Sufr landing</desc>
+    <sym>Skiing Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.3266685" lon="-127.9715657">
+    <time>2018-02-03T05:24:07Z</time>
+    <name>LawnPt</name>
+    <cmt>Calvin used as camp</cmt>
+    <desc>Calvin used as camp</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.3620407" lon="-126.2941756">
+    <time>2013-05-13T13:49:25Z</time>
+    <name>Mate Island</name>
+    <cmt>Intertidal Zone Border</cmt>
+    <desc>Intertidal Zone Border</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.0945560" lon="-127.8625580">
+    <time>2018-04-05T15:36:11Z</time>
+    <name>NordstromCreek</name>
+    <cmt>Space for 2 or 3 tents</cmt>
+    <desc>Space for 2 or 3 tents</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.3846827" lon="-127.9658490">
+    <time>2018-02-03T05:22:54Z</time>
+    <name>QuatsinoCabin!</name>
+    <cmt>Calvin reported cabin! in this area</cmt>
+    <desc>Calvin reported cabin! in this area</desc>
+    <sym>Lodge</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.6295952" lon="-126.5577530">
+    <time>2013-05-13T13:39:13Z</time>
+    <name>Spanish Pilot Group</name>
+    <cmt>98.4 ft - 328.1 ft</cmt>
+    <desc>98.4 ft - 328.1 ft</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.9957669" lon="-127.4207336">
+    <time>2018-04-05T15:49:33Z</time>
+    <name>SpringIsland</name>
+    <cmt>Intertidal Zone</cmt>
+    <desc>Intertidal Zone</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1547419" lon="-125.9036433">
+    <time>2013-05-13T13:50:56Z</time>
+    <name>Tofino</name>
+    <sym>Lodge</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9037500" lon="-125.3489000">
+    <ele>0.0000000</ele>
+    <time>2011-06-13T23:11:37Z</time>
+    <name>TurretCG</name>
+    <cmt>Pacific Ocean</cmt>
+    <desc>Pacific Ocean</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9170167" lon="-125.3415333">
+    <time>2011-06-13T23:08:29Z</time>
+    <name>WillisCG</name>
+    <cmt>Pacific Ocean</cmt>
+    <desc>Pacific Ocean</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>

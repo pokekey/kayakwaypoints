@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.6" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2018-04-05T15:33:04Z</time>
+    <bounds maxlat="48.3696630" maxlon="-122.6839828" minlat="48.0608082" minlon="-124.6690542"/>
+  </metadata>
+
+  <wpt lat="48.3696630" lon="-124.5743540">
+    <time>2017-12-23T03:24:46Z</time>
+    <name>3rdBeach</name>
+    <cmt>16.4 ft depth</cmt>
+    <desc>16.4 ft depth</desc>
+    <sym>Ski Resort</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Depth>4.9987200</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1648048" lon="-123.7084751">
+    <time>2017-12-23T03:20:45Z</time>
+    <name>Crescent</name>
+    <cmt>Best surf near high tide.  Better on rising tide.</cmt>
+    <desc>Best surf near high tide.  Better on rising tide.</desc>
+    <sym>Ski Resort</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Depth>2.0116800</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.3383272" lon="-124.6690542">
+    <time>2017-12-23T03:24:13Z</time>
+    <name>Hobuck</name>
+    <cmt>Intertidal Zone Border</cmt>
+    <desc>Intertidal Zone Border</desc>
+    <sym>Ski Resort</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1609956" lon="-123.8286651">
+    <time>2017-12-23T03:22:49Z</time>
+    <name>LYRE</name>
+    <sym>Ski Resort</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.0608082" lon="-122.6839828">
+    <time>2017-12-23T03:25:33Z</time>
+    <name>Marowstone</name>
+    <cmt>In right conditions swell will wrap around and break over long gravel bars visible on sattelite</cmt>
+    <desc>In right conditions swell will wrap around and break over long gravel bars visible on sattelite</desc>
+    <sym>Ski Resort</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1669496" lon="-123.9513478">
+    <time>2018-04-05T15:30:10Z</time>
+    <name>TWIN</name>
+    <cmt>Shallows that extend from West Twin River</cmt>
+    <desc>Shallows that extend from West Twin River</desc>
+    <sym>Ski Resort</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Depth>2.0116800</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1705432" lon="-123.9466083">
+    <time>2018-04-05T15:31:45Z</time>
+    <name>TWINR</name>
+    <cmt>Reef off point.
+Maybe best when tide is 2-4ft</cmt>
+    <desc>Reef off point.
+Maybe best when tide is 2-4ft</desc>
+    <sym>Ski Resort</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:Depth>2.0116800</gpxx:Depth>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>

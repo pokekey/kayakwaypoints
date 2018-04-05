@@ -1,0 +1,2779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>South Sound Area Kayakers Launches</name>
+    <description><![CDATA[Places South Sound Area Kayakers have launched from or camped at.  It is not complete and intentionally lacks details that could easily change (fees and conditions).<br>2012 >Discover pass required at ALL sites unless indicated.<br> Please write a comment if your favorite launches are not included .(include lat and lon if possible).]]></description>
+    <Style id="icon-139-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/139-swimming.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-139-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/139-swimming.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-139">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-139-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-139-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-22-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-22">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-22-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-22-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-22-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-22-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-22-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-31-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/31-campground.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-31-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/31-campground.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-31">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-31-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-31-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-31-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/31-campground.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-31-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/31-campground.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-31-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-31-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-31-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-33-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/33-caution.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-33-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/33-caution.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-33">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-33-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-33-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-61-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-61-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-61">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-61-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-61-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-61-nodesc-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-61-nodesc-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/61-green-dot.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-61-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-61-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-61-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>CLICK FOR LEGEND</name>
+        <description>Blue = Launch; Green = WDFW vehicle use permit required; Tent = campground</description>
+        <styleUrl>#icon-33</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8926914,47.0385739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alder Lake Park</name>
+        <description>Discover pass.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2916504,46.7989941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alder Lake Rocky Pt</name>
+        <description><![CDATA[4 miles east of Alder Lake park on Hwy 7.<br>Discover pass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2092803,46.7701959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alki</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3822992,47.5929815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alki - Seacrest Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3806602,47.5892715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Allyn</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8263439,47.3848683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American Lake</name>
+        <description><![CDATA[WDFW permit or Discover pass required.<br>Bathrooms]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5671239,47.122899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American Lake Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5601825,47.1405701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anacortes, Burrows Bay</name>
+        <description><![CDATA[Skyline marina.<br>On street parking.on west end Cabana Lane.<br>Gravel beach]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6870784,48.4918451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anacortes, Cape Sante Marina</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6077434,48.5157659,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anacortes, Guemes Ferry </name>
+        <description>Overnight parking can be had along the neighborhood streets</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.624878,48.5181323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anacortes, Washington Park</name>
+        <description>Overnight parking is available (fee) Anacortes, WA 98221</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6928445,48.5002704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Annapolis</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6161872,47.5478676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arcadia Point</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9385623,47.1973096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Astoria, Lewis & Clark River]]></name>
+        <description>Lewis and Clark Rd  Astoria, OR</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.8750709,46.1173387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bay View State Park</name>
+        <description>Padilla Bay</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4835142,48.4925274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Belfair State Park</name>
+        <description>Discover pass</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8739848,47.4251657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bellingham, Boulevard Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5065919,48.7274633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Benson Lake WDFW</name>
+        <styleUrl>#icon-61-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9219918,47.3360601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Lake</name>
+        <description><![CDATA[WDFW permit or Discover Pass required.<br>Public boat launch.<br>Bathrooms]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9748524,46.983151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black Lake, Olympia</name>
+        <description>Kenny Dell County Park.  Long carry to launch.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9705502,46.988508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black River 110th Av</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0006364,46.9278461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black River - 123rd Ave</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0198274,46.9091959,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black River, Gate , WDFW</name>
+        <styleUrl>#icon-61-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1211614,46.8322187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Black River - Littlerock</name>
+        <description>WDFW permit or Discover pass</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0224566,46.8841894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boston Harbor</name>
+        <description><![CDATA[Mariina,, privy, store.<br>Discover pass required 2012<br>Sandy beach. can be muddy if minus tide.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9055869,47.140117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bowman Bay</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/PEv5-GgXb8RUMbu2N4csWux8H0iRCq_SKej_wMUcMs3qY8RIs3l878SH0P5vOj7Qnl_0PDASRs0gcZrulgSYn4NdiNhdWvl9MV6ysOmZnvK1EbEH6E1R8eVmC4QOrI0Dug" height="200" width="auto" /><br><br>Anacortes, WA 98221State Park  Discover Pass required]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/PEv5-GgXb8RUMbu2N4csWux8H0iRCq_SKej_wMUcMs3qY8RIs3l878SH0P5vOj7Qnl_0PDASRs0gcZrulgSYn4NdiNhdWvl9MV6ysOmZnvK1EbEH6E1R8eVmC4QOrI0Dug</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.6507666,48.4154727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bremerton, Evergreen Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6272547,47.5745205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Brownsville</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6162192,47.6499011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bush Point, Whidbey Island</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6067563,48.030748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camano Island, Maple Grove</name>
+        <description>mar 2012 Non Camano resident fee $15 !?!</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5177047,48.2528697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camano Island, Tillicum Beach</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3993252,48.1037239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cathlamet</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.3887381,46.2045923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chico</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7074467,47.6086589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cline Spit</name>
+        <description><![CDATA[Access to Dungeness Bay & Lighthouse<br>Discover pass or WDFW pass]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1523614,48.1511416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coronet Bay</name>
+        <description>east side access to Deception pass.  Discover pass, Restrooms.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6250601,48.3998192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cosmopolis</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7586801,46.9603642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dabob Bay, Whitney Point</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.851267,47.7618728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dash Point Pier</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4269097,47.319385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dash Point State Park</name>
+        <description>Discover pass required. 2011wheels helpful.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4141422,47.3202012,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Des Moines Marina</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3287886,47.4002082,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diablo Lake - Colonial Creek</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.0956969,48.6894027,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Diablo Lake - City of Seattle</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.1151807,48.7159335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drayton Harbor</name>
+        <description>Near Blaine</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7591708,48.9959877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duwamish Waterway</name>
+        <description>Diagonal St. Launch</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3441145,47.5601951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagle Harbor, Bainbridge Island</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5214199,47.6217277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ebey Landing State Park</name>
+        <description>Whidbey Island (West)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.708166,48.1919689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Edmonds</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3946372,47.8028069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Everett</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2220422,48.0031315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fairhaven</name>
+        <description>Bellingham</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5166991,48.7197066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fay Bainbridge State Park</name>
+        <description>Discover pass</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5088242,47.7046785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Casey State Park</name>
+        <description>Whidbey Island near Keystone Ferry terminal</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6739402,48.1563523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Flagler State Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7228212,48.0929359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Warden State Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7616382,48.1345185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fox Island Bridge</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6504658,47.2751241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freeland, Whidbey Island</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5310322,48.0157791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freshwater Bay</name>
+        <description><![CDATA[Port Angeles, WA 98363<br><br>Discover pass or WDFW permit<br>Privy @ site]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.6415204,48.1464894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Friday Harbor, San Juan Island</name>
+        <description>Take first gangway to left.  Launch is at the bottom on your left.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0149139,48.5356969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frye Cove</name>
+        <description>Thurston Co Park.  Long carry to water.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9649923,47.1161676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gardiner, Discovery Bay</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.916391,48.0572295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gasworks Park Sunnyside</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ruMkXCOsFegbCPHm_ixVcVV1SxTDvoau79QMTU5UMw8JljLLoUdGr_8eLN5CZVu7NAwarK734hj-qE2NpRaHLVAZZ_kg55naIOpJwFYrlPHYSudpFYMIn7gFg9Daqj2bcw" height="200" width="auto" /><br><br>Seattle, WA 98103<br>Sunnyside Boat Launch<br>park across street (Northlake way)<br>Port-a-Pot]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/ruMkXCOsFegbCPHm_ixVcVV1SxTDvoau79QMTU5UMw8JljLLoUdGr_8eLN5CZVu7NAwarK734hj-qE2NpRaHLVAZZ_kg55naIOpJwFYrlPHYSudpFYMIn7gFg9Daqj2bcw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.3307171,47.6502176,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gig Harbor</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/A6bn-IguaguLXLPX9-TVjNaRTMj9Bl9CZzABFG_EVKOVLJG2dLGLadKmykSuKKwolPSOOBLR5w26mCMoX827kDJaRPAAj_6F_FeKc9tikme7Q6-CmfwpdyCnFtos7BqHMw" height="200" width="auto" /><br><br>Gig Harbor, WA 98332]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/A6bn-IguaguLXLPX9-TVjNaRTMj9Bl9CZzABFG_EVKOVLJG2dLGLadKmykSuKKwolPSOOBLR5w26mCMoX827kDJaRPAAj_6F_FeKc9tikme7Q6-CmfwpdyCnFtos7BqHMw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.5827137,47.3378921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Golden Gardens</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/0O-oNM1s1tNcThncPyrZF4pp-YG5wqNqchmnD7Rf1w5KIcJ1UjN3bWHFkZuKG-1rgKZSQthAEIWHfUqLS-OFvBQ3w53Mn8Ojdp-YUzLkm9iopNwHkTh-hdR8ilPs9pcT2Q" height="200" width="auto" /><br><br>Seattle, WA 98117]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/0O-oNM1s1tNcThncPyrZF4pp-YG5wqNqchmnD7Rf1w5KIcJ1UjN3bWHFkZuKG-1rgKZSQthAEIWHfUqLS-OFvBQ3w53Mn8Ojdp-YUzLkm9iopNwHkTh-hdR8ilPs9pcT2Q</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.4048077,47.6917683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gorge Lake Campground</name>
+        <styleUrl>#icon-31-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.1516472,48.7155018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gorge Lake</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -121.1524201,48.7158064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gorge Lake Falls Overlook</name>
+        <description>Rockport, WA 98283</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -121.0074774,48.702592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grapeview, Fair Harbor Marina</name>
+        <description>Port of Grapeview launch.  Parking and restroom are across the street.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8321752,47.3380049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grayland</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ml37dP_-eZqgEtqNEeo5dHc2OIM8QjCvSvr8XcPdVCP8P41plrz_ZduorcHFChRg6chnJ75YH3jIxvSBSH37gZeRGvH2fQLPylEjj4IVUe8pgkEnsUtwIUwBW4doNvUoew" height="200" width="auto" /><br><br>Grayland, WA 98547]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/ml37dP_-eZqgEtqNEeo5dHc2OIM8QjCvSvr8XcPdVCP8P41plrz_ZduorcHFChRg6chnJ75YH3jIxvSBSH37gZeRGvH2fQLPylEjj4IVUe8pgkEnsUtwIUwBW4doNvUoew</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -124.0984508,46.7936843,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green River, Kent</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/yWqmS7yIQuzWjdNpiu8Y1vQFYjpR2EWbBd0nnCOXiukcOLgLkiiaTnLbQI-F99qUuZb_jwGgI1__EJwHW4QxmpiqERz68XG-IRo5VzN_K0L9g9NmINfhIDzVl8yGYzHyLj7kapvuiAlj" height="200" width="auto" /><br><br>Kent, WA 98032]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/yWqmS7yIQuzWjdNpiu8Y1vQFYjpR2EWbBd0nnCOXiukcOLgLkiiaTnLbQI-F99qUuZb_jwGgI1__EJwHW4QxmpiqERz68XG-IRo5VzN_K0L9g9NmINfhIDzVl8yGYzHyLj7kapvuiAlj</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.2736966,47.4055157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guemes Island, Hunts Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6367012,48.5805114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harper</name>
+        <description>Low tides  can make this a poor launch</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5077941,47.518824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hastie Lake (salt water)</name>
+        <description>Whidbey Island (West)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7482272,48.2624274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hobuck Beach</name>
+        <description>Camping, surfing, paddling.  Get your tribal permits.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -124.6618223,48.3339728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Home, Key Peninsula</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7599432,47.272838,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hood Head</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/REqR_oOYBgJ9Z5CKrt_aOqFnWatFfSu63j4hou_tdW2lQFLy8s0ZZZPipvbPqBn0JW5b9qYUPC9Cdm9TEY0LYj97RUxsz7r4Hfk3dHOvLq1vANt2mj6k1tgbRuK2e0ruFA" height="200" width="auto" /><br><br>Port Hadlock, WA 98365]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/REqR_oOYBgJ9Z5CKrt_aOqFnWatFfSu63j4hou_tdW2lQFLy8s0ZZZPipvbPqBn0JW5b9qYUPC9Cdm9TEY0LYj97RUxsz7r4Hfk3dHOvLq1vANt2mj6k1tgbRuK2e0ruFA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.6414543,47.8656668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Horsehead Bay</name>
+        <description><![CDATA[Gig Harbor, WA 98335.<br><br>Unload  boats @ ramp<br>and park on street~ 2 blocks East.<br>No toilet facility/ use on way to launch.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6842838,47.2898401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Humptulips River @ Hwy 109</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/j2BAajDlEodAAp819f92fAWPVwTTYZ5QxRKH4wAQzq6pXRAyNHn1b-9APP0Y8rnR2NZqLj2o7D2_UUBpB-mdX1k0Q-eEWbU1c2fpZcpvoDu6NNxj2skB244i8ybEs2EEXQ" height="200" width="auto" /><br><br>Hoquiam, WA 98550]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/j2BAajDlEodAAp819f92fAWPVwTTYZ5QxRKH4wAQzq6pXRAyNHn1b-9APP0Y8rnR2NZqLj2o7D2_UUBpB-mdX1k0Q-eEWbU1c2fpZcpvoDu6NNxj2skB244i8ybEs2EEXQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -124.0307524,47.0528151,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ilahee State Park</name>
+        <description>A fee may be asked for.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5951802,47.59788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ilwaco</name>
+        <description>Cape Disappointment State Park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -124.0520383,46.2859865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Isabella Lake, WDFW</name>
+        <description>Shelton, WA</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1045104,47.1699649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jarrell's Cove Marina]]></name>
+        <description>Shelton, WA 98584</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8883873,47.2838297,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jarrell's Cove State Park]]></name>
+        <description>Shelton, WA 98584</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8854492,47.2818493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Joemma Beach State Park</name>
+        <description><![CDATA[+47° 13' 29.75", -122° 48' 36.32"<br><br>Discover pass<br>CMT campsite, picnic pavilions, <br>parking is uphill from launch]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8088667,47.2242311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[John's River, WDFW]]></name>
+        <styleUrl>#icon-61-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.9859484,46.901932,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kalama</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8369974,46.0120894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kapowsin, Lake</name>
+        <description><![CDATA[north of Eatonville, WA<br>Discover pass or WFDW permit required]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2060344,46.9876595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kennedy Creek</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/y3RuaKtpStRUrbH1n9t52SsgNLu9wTar-1soMrEP86gGAqz8BQ4ChT34IvO32tyh5N0l5jQ1qVEDr8nBHhO3cBmsAsxFYL5EuI9a3Qkn6v-CPUHhJC2TNl9Phrr22UxrZA" height="200" width="auto" /><br><br>+47° 6' 39.07", -123° 4' 24.84"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/y3RuaKtpStRUrbH1n9t52SsgNLu9wTar-1soMrEP86gGAqz8BQ4ChT34IvO32tyh5N0l5jQ1qVEDr8nBHhO3cBmsAsxFYL5EuI9a3Qkn6v-CPUHhJC2TNl9Phrr22UxrZA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.0856057,47.1013736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kayak Pt</name>
+        <description><![CDATA[CMT site.<br>  Camping by reservation only. Reseve site <br>72 hours in advance by calling Kayak Point <br>County Park, 360.652.7992. Camping limited <br>to one night.  <br>site is at the northern boundary of the park, just after parking and picnic tables.<br>Coordinates:<br>  N 48˚08.010'   W 122˚22.050']]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3676752,48.1335665,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Keyport</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/hUhNgX5einHRBjYvQt1XFkBebZSHsmf5zjsHE9BOxsjs4d3YJdKu9YnQrENt1GhCIpYhi5-vSEf3wAchvYsiPSoJXOa-U6eQbxOMQVGMF7C3lLED-FDddEJ2Np35IJqRyg" height="200" width="auto" /><br><br>Keyport, WA 98345]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/hUhNgX5einHRBjYvQt1XFkBebZSHsmf5zjsHE9BOxsjs4d3YJdKu9YnQrENt1GhCIpYhi5-vSEf3wAchvYsiPSoJXOa-U6eQbxOMQVGMF7C3lLED-FDddEJ2Np35IJqRyg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.6178186,47.7026859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kokanee, Lake</name>
+        <description><![CDATA[WDFW permit required<br>Hoodsport, WA]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1985382,47.3952986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LaConner, Pioneer Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5018072,48.384373,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Cresent - Fairholm Campground</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.9043234,48.070824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Cushman - Bear Gulch</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/quZ85WzVdATVdMRBqApz8AdhjIbima2dPQwNHyijieZWWcVcZS82xooXQpTXMnxnKir3oqz3ePdQIrq0amv0coBnW6wmDAVG8U5CFSJADP4zgNGsQuupPD1_7aAmUkFEGg" height="200" width="auto" /><br><br>WA]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/quZ85WzVdATVdMRBqApz8AdhjIbima2dPQwNHyijieZWWcVcZS82xooXQpTXMnxnKir3oqz3ePdQIrq0amv0coBnW6wmDAVG8U5CFSJADP4zgNGsQuupPD1_7aAmUkFEGg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.3138272,47.5021006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Cushman - Mt Rose</name>
+        <description>Private property.  Permit can be obtained only from a resident.  Print this map, it can be hard to find.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.2453582,47.4820248,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake St Clair</name>
+        <description>WDFW permit or Discover pass required</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7174137,46.9988997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Tapps Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.1641494,47.2510096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Union - Kenmore Air</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/dL8bCExThS0j4-mOO7xjWQ3BEvkDfNC-ErzbiehffFqdpqjLp1kr264eGFoHLOvkzkppqApl8ICM8cgbdBYXVM50lEWBpwGQHeGxvhRa5RN4rSnJ_zqK6iXMKv0AQu4FTw" height="200" width="auto" /><br><br>Seattle, WA 98109<br> <br> aka South Lake Union park<br>http://www.atlakeunionpark.org/sites/default/files/LUP_overview_labels%20copy.pdf<br> <br>Recent construction may have changed the launch (11/2010)]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/dL8bCExThS0j4-mOO7xjWQ3BEvkDfNC-ErzbiehffFqdpqjLp1kr264eGFoHLOvkzkppqApl8ICM8cgbdBYXVM50lEWBpwGQHeGxvhRa5RN4rSnJ_zqK6iXMKv0AQu4FTw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.3393722,47.6250253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Washington Enatai Beach</name>
+        <description><![CDATA[Enatai Beach park<br><br>47.579324, -122.196511]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2090605,47.5741811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Washington, North</name>
+        <description>Kenmore, WDFW</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2505812,47.752309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Washington, South</name>
+        <description>Renton</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.227321,47.4945883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Tapps - Alan Yorke Park</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/nYKwAr_pqd3kTLYwQTv5wCqo-WJOx5muP_NRjQEGh27riGdtlealZoKUFBi60EtKe5AhlixtGrE4FJU-KbKYJGzNSLTPDP_gMapDjten-ffFfH5-2_SddwEjI4pLLMRXEg" height="200" width="auto" /><br><br>Sumner, WA 98391]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/nYKwAr_pqd3kTLYwQTv5wCqo-WJOx5muP_NRjQEGh27riGdtlealZoKUFBi60EtKe5AhlixtGrE4FJU-KbKYJGzNSLTPDP_gMapDjten-ffFfH5-2_SddwEjI4pLLMRXEg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.1531404,47.1945056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lake Wynoochee</name>
+        <description>Near  Coho Campground</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.5936164,47.3909813,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Langley</name>
+        <description>Whidbey Island (East)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4039172,48.0361428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larabee State Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4899842,48.6513551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Latimer's Landing]]></name>
+        <description>at Harstine Island bridge.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9296729,47.2470331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Lion's Field - Bremerton]]></name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/nBOYWDa0fo5yDWwUr96_k958-BeJzucp0IXDBxW2tRstb6T6shpA3HBENSzJlySfujbJYhjutA1asw3i0D3x-GhSFgprJNwk4dewhohVUpfC1S4b1qYTQIjryjc7oQ6Stw" height="200" width="auto" /><br><br>Bremerton, WA 98310<br>Lebo Blvd at Lion's Field Marina @47.586015,-122.644772]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/nBOYWDa0fo5yDWwUr96_k958-BeJzucp0IXDBxW2tRstb6T6shpA3HBENSzJlySfujbJYhjutA1asw3i0D3x-GhSFgprJNwk4dewhohVUpfC1S4b1qYTQIjryjc7oQ6Stw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.6433204,47.5844724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Longbranch, 72nd St</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7462903,47.1916031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Island (Willapa Bay)</name>
+        <description>VERY tidal dependent  Naselle, WA 98638</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.9362523,46.4143256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Lake Park (Olympia)</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/BpkoUGea7nTvY4uLKEXE3G3bTaF0NREtTGrWvdZvmV1El9HkI0G_oqMuCqmkTYzb9Fo9Hda7ubboIxoXoOTeDdELy5vx4oi-l0C6qgLEEEkHxLzOd-5qbR56kdwtwJ2qJQ" height="200" width="auto" /><br><br>Olympia, WA 98503]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/BpkoUGea7nTvY4uLKEXE3G3bTaF0NREtTGrWvdZvmV1El9HkI0G_oqMuCqmkTYzb9Fo9Hda7ubboIxoXoOTeDdELy5vx4oi-l0C6qgLEEEkHxLzOd-5qbR56kdwtwJ2qJQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.7837342,47.02216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Lake (Olympia) WDFW</name>
+        <description><![CDATA[closed in winter<br>WDFW permit or Discover pass]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7818941,47.0211985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Long Lake (Port Orchard) WDFW</name>
+        <description>Port Orchard, WA 98367</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5950862,47.4827405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lopez Island, Fisherman Bay</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9136442,48.5117717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lopez Island, Hunter Bay</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8623711,48.4604789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lopez Island, Odlin Co Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8933673,48.5565573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lopez Island, Otis Perkins Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9334502,48.5078627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luhr Beach</name>
+        <description>WDFW permit or Discover Pass required.</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.727242,47.1008848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lummi Island Ferry</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6727822,48.7304922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester</name>
+        <description>Pomeroy park.  On street parking.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5431881,47.5555684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manchester State Park</name>
+        <description>Overnight parking (fee)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5472542,47.5762363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manette Gazebo</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/8pcjCThjZZFvuhgofPn_c6BQF1HhvG6D3F-g0c4znMOKFdsvVoMLR7UFJwpNF1-0xe0vduSE0B9ThRrmI2OyF5gY4OzUbmqjjX-1qwKVRnP_JD4u3OXb7jd7Vv2MuSexrw" height="200" width="auto" /><br><br>Bremerton, WA 98310]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/8pcjCThjZZFvuhgofPn_c6BQF1HhvG6D3F-g0c4znMOKFdsvVoMLR7UFJwpNF1-0xe0vduSE0B9ThRrmI2OyF5gY4OzUbmqjjX-1qwKVRnP_JD4u3OXb7jd7Vv2MuSexrw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.604951,47.5721977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manzanita Bay</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/a8_7qzU3bL_lCskn7FqoShWPCDtP5BzmKMlYZbo2wkm9-gJn8Z7g6ptu-BPTmB_jSVAySaisBwjsbgSpZsMrfz9L4yyAwdcmiM3q4P8tSFAdNPNf550jOKjCC6wdx1CaIQ" height="200" width="auto" /><br><br>End of Dock st.Very limited parking<br>Seattle, WA 98110]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/a8_7qzU3bL_lCskn7FqoShWPCDtP5BzmKMlYZbo2wkm9-gJn8Z7g6ptu-BPTmB_jSVAySaisBwjsbgSpZsMrfz9L4yyAwdcmiM3q4P8tSFAdNPNf550jOKjCC6wdx1CaIQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.5618133,47.6762168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marblemount Cascade River Rd</name>
+        <description><![CDATA[Skagit river launchDiscover pass or WDFW permit<br>Marblemount, WA 98267]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -121.427955,48.5264077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marrowstone Island, East Beach Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6833394,48.0561977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mason Lake</name>
+        <description>Belfair, WA 98528</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9224532,47.3549391,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mats Mats Bay</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/lkCqQ75w77097jJNtIwmam0hyEFc56CKlr51LP3wQqAgUvEkyaJSCMA9QFO0XEdy_piVrqMUhROENXgTTdcc6gGvgWWPQWosKLwCDY2kwMTmwtIpGRMniYfw4amd4Y-oXw" height="200" width="auto" /><br><br>+47° 57' 3.74", -122° 41' 10.54"]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/lkCqQ75w77097jJNtIwmam0hyEFc56CKlr51LP3wQqAgUvEkyaJSCMA9QFO0XEdy_piVrqMUhROENXgTTdcc6gGvgWWPQWosKLwCDY2kwMTmwtIpGRMniYfw4amd4Y-oXw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.6860215,47.9508738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayfield Lake - Beach Rd</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5450654,46.5340231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayfield Lake - Fish Hatchery</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/783ZTE1KRZr0xEJk_vQCymwvy5npXNubsXe9FXykmpGS_YNFmAqGT3gq3E0kLqtIQ_aRt1hV_b4OrOfSWK6wYQCxUCyU6HBgmlJC9ABG7wpnu60SibYWq-bL5D5QMtJT0g" height="200" width="auto" /><br><br>Mossyrock, WA 98564]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/783ZTE1KRZr0xEJk_vQCymwvy5npXNubsXe9FXykmpGS_YNFmAqGT3gq3E0kLqtIQ_aRt1hV_b4OrOfSWK6wYQCxUCyU6HBgmlJC9ABG7wpnu60SibYWq-bL5D5QMtJT0g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.5194028,46.5484576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayfield Lake Ike Kinswa park</name>
+        <description><![CDATA[Ike Kinswa state park<br>873 State Route 122<br>Silver Creek, WA 98585-9731<br><br>Discover pass required<br><br>Nice beach &  Bathrooms]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.534444,46.5612795,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayfield Lake State Park Boat Launch</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Q54YFeY0_LC2Fk80N78qNlgbhtVkrS1jG93LhNFFHT7hmzwWgSBFd5mIT1yfuKfgBnjvNy_T5vt7B0rj5Eg_365BQ77AscFKBVvrSRwy95M1jsJmajpWEFOhLD9MphiCqQ" height="200" width="auto" /><br><br>Silver Creek, WA 98585<br>Fee to launch]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/Q54YFeY0_LC2Fk80N78qNlgbhtVkrS1jG93LhNFFHT7hmzwWgSBFd5mIT1yfuKfgBnjvNy_T5vt7B0rj5Eg_365BQ77AscFKBVvrSRwy95M1jsJmajpWEFOhLD9MphiCqQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.5245954,46.5562042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercer Island</name>
+        <description><![CDATA[Mercer Island, WA 98040<br> <br>Parking fee]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2145966,47.5729935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercer Slough</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/5MZJJl4zJfyDq32jWjHi_sYsxmhxbAkyGx5EDeUY2b4YdiNaUWFLH1EpKB7Bix8D7oC1t3m6e8WciRfAs5nN6D5Ch-jS3uCnYK45KBACfNSRT_vJNhmOQMCKcJB137mwUw" height="200" width="auto" /><br><br>Bellevue, WA 98004]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/5MZJJl4zJfyDq32jWjHi_sYsxmhxbAkyGx5EDeUY2b4YdiNaUWFLH1EpKB7Bix8D7oC1t3m6e8WciRfAs5nN6D5Ch-jS3uCnYK45KBACfNSRT_vJNhmOQMCKcJB137mwUw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.1870662,47.5804625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Millersylvania State Park</name>
+        <description>Tumwater, WA 98512</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9157604,46.9090494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mineral Lake</name>
+        <description>WDFW permit required or Discover pass</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.1697064,46.7231824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Misery Point - Seabeck</name>
+        <description><![CDATA[Seabeck, WA 98380<br> <br>WDFW permit needed]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8425441,47.650074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montesano, Friends Landing</name>
+        <styleUrl>#icon-61-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.5908914,46.9652887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mud Bay launch</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/hjtEm5MWk765FL5iWEMtyOD_rQfE8u7bZIcbeeldcoYdQ1_Hrnwk6OvxJ-On4999vhgEOzql91yqHlj2EsdlXGGY9-6X4epw6X3f8c_0PBjURzqmdkD-F1aYmAneG8tPyw" height="200" width="auto" /><br><br>Olympia, WA 98502]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/hjtEm5MWk765FL5iWEMtyOD_rQfE8u7bZIcbeeldcoYdQ1_Hrnwk6OvxJ-On4999vhgEOzql91yqHlj2EsdlXGGY9-6X4epw6X3f8c_0PBjURzqmdkD-F1aYmAneG8tPyw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.9955271,47.0518798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mud Bay launch parking</name>
+        <description>Walk the path on the NW side of the fence to get to the launch (about 400 feet)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9977797,47.0501026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mukilteo Lighthouse Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3070682,47.9461744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mystery Bay, Marrowstone Island</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6919652,48.0557383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nahwatzel, Lake:  WDFW</name>
+        <styleUrl>#icon-61-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.3191194,47.2417961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neah Bay</name>
+        <description>Get your tribal permit in town.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -124.6313953,48.3775751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North Bay, Case Inlet, WDFW</name>
+        <description><![CDATA[47.38985686, -122.8118415<br>Watch out for low tides.]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8127722,47.3881524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North River, Willapa Bay</name>
+        <description><![CDATA[Aberdeen, WA 98520<br><br>Washington State Department of Fish and Wildlife (WSDFW) boat ramp and toilet at the mouth of the North River: Paddlers can go 8-10 miles up this scenic river, or paddle 7 miles southeast up the Willapa River to South Bend.]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -123.884583,46.7478372,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oak Bay Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7287432,48.0212471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oak Harbor</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6570322,48.2807941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oak Harbor Marina</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6323562,48.2829071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oakland Bay</name>
+        <description><![CDATA[WDFW permit required.<br><br>Can be a little muddy at lower tides.]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0295584,47.2526545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oakland Bay - Shorecrest</name>
+        <description>Shelton, WA 98584</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0627327,47.2076237,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean Shores, Duck Lake</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -124.148297,46.9984314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ocean Shores, Grays Harbor</name>
+        <description>Ocean City, WA 98569</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -124.1310235,46.9475085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ohop Lake, WDFW</name>
+        <description>Open only during fishing season</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2667594,46.8881348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olalla</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5406461,47.4196884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Old Fort Townsend </name>
+        <description>Port Townsend Bay</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7870977,48.0761575,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olympia Rotary Park</name>
+        <description>West Bay  Olympia New park on west bay drive</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9116921,47.0526983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Olympia Woodard Bay</name>
+        <description><![CDATA[Limited parking.. Discover pass<br>Seasonal launch Apr 15th to Sept 1st<br>Tide dependent-can be muddy. Need 5-8 ft tide.<br>Woodard Bay Natural Resources Conservation Area. 3 Hiking trails. <br>Habitat for shorebirds and songbirds, harbor seals, river otters, bald eagles, a large maternity colony of bats, and one of the most significant heron rookeries in the state.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8534822,47.1269142,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Olympia Zittel's Marina]]></name>
+        <description>Launch fee. Can negotiate group rate. Long term secure parking available.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8092529,47.1648446,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orcas Island (North)</name>
+        <description>Bartwood Lodge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8898586,48.7131089,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orcas Island, Deer Harbor</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0011272,48.6187539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orcas Island, Jackson Beach</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0124888,48.5188497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orcas Island, North Beach</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9062632,48.7124294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orcas Island, Obstruction Pass</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8163502,48.6040593,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Owens Beach</name>
+        <description>Tacoma, WA 98407</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5287444,47.3134529,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palix River, WDFW</name>
+        <styleUrl>#icon-61-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.9012334,46.614663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pattison Lake, WDFW</name>
+        <description>Lacey, WA</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7585914,46.9984899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Penrose Point State Park</name>
+        <description><![CDATA[Discover pass   State park.<br>beach, camping, picnic, toilets,parking.<br>CMT camp site.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7444072,47.2573374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pleasant Harbor</name>
+        <description>WDFW permit  or Discover pass required.</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9215622,47.6579155,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point Defiance</name>
+        <description><![CDATA[Vashon Island ferry landing<br>Tacoma, WA 98407]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5143715,47.3060734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point No Point</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5294022,47.909777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Point Fosdick</name>
+        <description><![CDATA[Gig Harbor, WA 98335<br><br>east side of Wollochet bay]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5993783,47.264755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Port Hadlock</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7518752,48.0315516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Port of Olympia Boat Launch</name>
+        <description>Tumwater, WA 98501</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8990536,47.0576241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Port Orchard</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6408317,47.5414548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Port Townsend, North Beach</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7819799,48.1424374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Port Townsend, Pt Hudson Marina</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7522822,48.117789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Port Townsend - Water Street</name>
+        <description>Port Townsend, WA 98368</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7540244,48.1147416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Potlatch State Park</name>
+        <description><![CDATA[Shelton, WA 98584<br><br>Discover Pass required.<br>Good bathrooms.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1557731,47.3603976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poulsbo</name>
+        <description>Poulsbo, WA 98370</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6448976,47.731126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Purdy Spit</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/_Ra5kfsVh6DcUGdpRYBHixKebX8kPWcgyVQmGlBkp-7NQ7bpltcWtyaAwKjLtBm9mGw_Cx1v7sNKaXL-PMLX3RpgwcWncpZcL3yxUixNh_jxzzf4oZF_ARFTRIs0nzDAxg" height="200" width="auto" /><br><br>Gig Harbor, WA 98329]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/_Ra5kfsVh6DcUGdpRYBHixKebX8kPWcgyVQmGlBkp-7NQ7bpltcWtyaAwKjLtBm9mGw_Cx1v7sNKaXL-PMLX3RpgwcWncpZcL3yxUixNh_jxzzf4oZF_ARFTRIs0nzDAxg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.6423769,47.3787594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Quilcene Marina</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.867188,47.8012289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Richmond Beach Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3849699,47.762385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riffe Lake west</name>
+        <description>Mossyrock Park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4134013,46.5172072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Riffe Lake east</name>
+        <description>Taidnapam Park</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.1690842,46.4716798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roche Harbor</name>
+        <description>parking fee. Launch fee. Overnite parking</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1527258,48.6083909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rockport Howard Miller Steel Head park</name>
+        <description><![CDATA[Skagit river take out & launch accessriver front park<br>WDFW permit or Discover pass]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -121.594985,48.484571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rosario</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.87295,48.6441639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salisbury Point</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/cAZrRKrMgfF9K6VDPTBDuPEecenB4szJcBbw1JuMGBeXcXAf0ZPDR0KhHdXbDh3MYF0jihIwwv_STywD3n0QTvuFuAahv7dyro3_4HLsmCeRTtsQSrwwaVLB6xoDL1FDXQ" height="200" width="auto" /><br><br>Poulsbo, WA 98370]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/cAZrRKrMgfF9K6VDPTBDuPEecenB4szJcBbw1JuMGBeXcXAf0ZPDR0KhHdXbDh3MYF0jihIwwv_STywD3n0QTvuFuAahv7dyro3_4HLsmCeRTtsQSrwwaVLB6xoDL1FDXQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.6075773,47.8569963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salt Creek County Park</name>
+        <description>Port Angeles, WA 98363</description>
+        <styleUrl>#icon-31</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7048745,48.166414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saltwater State Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3245454,47.3719439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Salty's beach north of]]></name>
+        <description><![CDATA[beach north of Salty's restaurant<br>On street parking is limited.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3780717,47.5874252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Juan County Park</name>
+        <description>Mandatory whale watching safety class is required to launch (fee)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1594848,48.5408964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Juan Island, Reuben Tarte Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.098416,48.6125402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Juan Island, Snug Harbor</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.167472,48.5704736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>San Juan Island, Turn Point</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9800131,48.5289761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seahurst Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3630858,47.4784265,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle 14th Ave NW Boat ramp</name>
+        <description><![CDATA[FREE       Hours :4 a.m. - 11:30 p.m.<br>In the shadow of the Ballard Bridge . A 1996 renovation added a new dock, a resurfaced ramp, and improved parking. portable restroom. The site offers two piers, two launch lanes, and is one of Seattle's free of charge launch ramps.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3736514,47.6607632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seattle, Arboretum (MOHAI)</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3112635,47.6419594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Semiahmoo County Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7856925,48.9821743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sequim Bay State Park</name>
+        <description>Sequim, WA 98382</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0263403,48.0409635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sequim, Port Williams Launch</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0457807,48.0953011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shelton High School Pool</name>
+        <description>The waypoint is on the pool building itself.</description>
+        <styleUrl>#icon-139</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1101644,47.2380882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shelton Walker County Park</name>
+        <description><![CDATA[Shelton, WA 98584<br><br>Barthrooms &Picnic pavilions<br>Long haul to beach from parking<br>CMT campsite]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0605869,47.2027038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shelton - Yacht Club</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/0NFiAeCavmk5iDKK3PM_m0Kp4qG9rXkiz20N3QvZ8iZD8eiB-xIjGxNt26l47crunkH7TZUzxW3dS5wodg6Wgn8-CkLhsopdrPiqUxlwVbfi1i-9cQVqGW2Y6s6wDVqM0A" height="200" width="auto" /><br><br>Shelton, WA 98584]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/0NFiAeCavmk5iDKK3PM_m0Kp4qG9rXkiz20N3QvZ8iZD8eiB-xIjGxNt26l47crunkH7TZUzxW3dS5wodg6Wgn8-CkLhsopdrPiqUxlwVbfi1i-9cQVqGW2Y6s6wDVqM0A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -123.0919041,47.2132642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shine Launch, Hood Canal</name>
+        <description>Hicks Co Park. Boat ramp, restrooms.  No fees.</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6631481,47.8669338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shine Tidelands State park North</name>
+        <description>Day-use only, picnic tables, restrooms and great views of Hood Canal.. Discover pass</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6345149,47.8689287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silverdale</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/sv5hx91DmXwzx4ApUUmeFgMUJIbdxR19zGDP_a3kN-5Cl02pM5OHkioUU6Q0m_34aIc4bgE7CYznBIiT1bq2dYy8qK_m9G86CLmynBHiK8e6YQ1776zfsJwO4iAdNL4Y0g" height="200" width="auto" /><br><br>Silverdale, WA 98383]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/sv5hx91DmXwzx4ApUUmeFgMUJIbdxR19zGDP_a3kN-5Cl02pM5OHkioUU6Q0m_34aIc4bgE7CYznBIiT1bq2dYy8qK_m9G86CLmynBHiK8e6YQ1776zfsJwO4iAdNL4Y0g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.6951086,47.6433234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Silver Lake</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/tKDfrytIGoyi9p-PI_dXarDXxQUpg1C6koqnuiXSn_CmVKunYRZYwQD9Q9CZgl7BvOYEBptWNQ3edIIxLm3qBRGD8qRJR6jXsCQJRMtOogRzthM1t63HQe8QJw0Tr3CzQw" height="200" width="auto" /><br><br>Silver Lake, WA 98645]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/tKDfrytIGoyi9p-PI_dXarDXxQUpg1C6koqnuiXSn_CmVKunYRZYwQD9Q9CZgl7BvOYEBptWNQ3edIIxLm3qBRGD8qRJR6jXsCQJRMtOogRzthM1t63HQe8QJw0Tr3CzQw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.7666434,46.3140238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skagit River Conway</name>
+        <description>North side of Fir Is bridge</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3506057,48.3414358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skagit River Delta</name>
+        <description>WDFW permit  or Discover pass required..Closes @ dark. </description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3734368,48.3239007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skamokawa Vista Park</name>
+        <description>Parking fee  $3 in 2010</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.4599624,46.2682974,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Snee-oosh Beach</name>
+        <description>West of LaConner</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5393372,48.3970192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacoma Solo Point</name>
+        <description><![CDATA[Fort Lewis. Day Use only.<br>DoD base pass recommended/NOT required.<br>No Bathrooms.<br>Lots of parking. Launch at all tides.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6323661,47.1385926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Southworth</name>
+        <description>Day parking available on Sebring St.  Overnight parking across the street in ferry parking lot (fee)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4968929,47.5124254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spencer Lake - WDFW</name>
+        <description>WDFW permit required</description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9692302,47.2606724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stan Sayres Pits</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/bIYXUxdEAs5jSmFjg-TLjolb8oSgLJ0zBF7_G10tOv_4idFYy6yyWrxVvLNELQo1Em2G-HksfXVt1Gbxm80s2GAVOI0Hy8IWVHJhWZxd3iXZ-p4UsOCPlYn6fwRmJRHRWQ" height="200" width="auto" /><br><br>Seattle, WA 98118]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/bIYXUxdEAs5jSmFjg-TLjolb8oSgLJ0zBF7_G10tOv_4idFYy6yyWrxVvLNELQo1Em2G-HksfXVt1Gbxm80s2GAVOI0Hy8IWVHJhWZxd3iXZ-p4UsOCPlYn6fwRmJRHRWQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -122.2785233,47.5703729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steamboat Rock State Park</name>
+        <styleUrl>#icon-31-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -119.1141988,47.8699416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Steilacoom</name>
+        <description>Parking fee</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.603517,47.1721165,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Summit Lake, WDFW</name>
+        <description><![CDATA[Only open during fishing season<br>WDFW permit or Discover Pass]]></description>
+        <styleUrl>#icon-61</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1039524,47.0518351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sun Lakes State Park</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/JNB8YirHBVFVyn1ATcRCAk7MS2qoW0kY5n3J8daz_iv3jVjFySbiclSzhbdPhj_TBpGlOtRZ1CiQqx7PQWGJ7C_bMXDUGCqI7TUFPnHxum8qCsGQf8jjKPQlo5XZWwel3A" height="200" width="auto" /><br><br>Coulee City, WA 99115]]></description>
+        <styleUrl>#icon-31</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/JNB8YirHBVFVyn1ATcRCAk7MS2qoW0kY5n3J8daz_iv3jVjFySbiclSzhbdPhj_TBpGlOtRZ1CiQqx7PQWGJ7C_bMXDUGCqI7TUFPnHxum8qCsGQf8jjKPQlo5XZWwel3A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -119.3885044,47.5914442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suquamish</name>
+        <description>Suquamish, WA 98392</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5516322,47.727013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suquamish, Miller Bay</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5579727,47.7473604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swinomish Channel (North)</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5132012,48.4531005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacoma, Dock St. Park </name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4389814,47.2617154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tacoma -Thea Foss</name>
+        <description><![CDATA[launch is under the SR 509 bridge over the Thea Foss waterway in downtown Tacoma (intersection of E D St. and E 21st St.). <br>Nearby bathrooms at park across water on Dock st<br>Free parking]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4312137,47.2433942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tahuya, Menard's Landing]]></name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1124662,47.3849451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tahuya River</name>
+        <description>Launch from open field but park out near road (launch is an emergency helicopter pad)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.0503292,47.3708034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Titlow Beach Park</name>
+        <description>Tacoma, WA 98406</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5547864,47.2467703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tonados Peninsula--Coyle</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.8053472,47.6920857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tracyton</name>
+        <description>Tracyton, WA 98311</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6604655,47.6071468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Triton Cove, Hood Canal</name>
+        <description><![CDATA[Day use state park = Discover pass.<br>Toilets, parking, day launch.<br>CMT camp site only.]]></description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9846049,47.6090995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tulalip Bay</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.2776172,48.0600982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tumwater Historical Park</name>
+        <description>Capitol Lake is currently closed due to New Zealand Mud Snail infestation (11/2010)</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.9033017,47.0230197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Twanoh State Park</name>
+        <description>The waypoint is on a beach with limited parking.  You can also launch from the boat launch parking lot further from the west.  The signs ask for a fee when using the boat launch.Discover pass  Mar 2012</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -122.970593,47.3790862,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Union</name>
+        <description>Skokomish River Delta</description>
+        <styleUrl>#icon-22</styleUrl>
+        <Point>
+          <coordinates>
+            -123.1019249,47.3575845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vancouver Lake, WDFW</name>
+        <styleUrl>#icon-61-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7046254,45.6670252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vashon Island (North)</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.4646851,47.5095487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vaughn Bay</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7760522,47.3400656,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whatcom Lake, South Bay, WDFW</name>
+        <styleUrl>#icon-61-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.3168099,48.6730141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whidbey Is. Beach Combers Rd.</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5606015,48.1260539,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whidbey Island, Dugalla Bay</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.5969932,48.3545669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whidbey Island, Libbey Park</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7671102,48.2319058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whidbey Island, Monroe Landing</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6807539,48.2399804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whidbey Island, Moran Beach</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6663236,48.3710898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Whidbey Island, West Beach Rd</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.7181116,48.3070907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wollochet Bay</name>
+        <styleUrl>#icon-22-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -122.6109785,47.2897533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
