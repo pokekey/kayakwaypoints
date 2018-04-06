@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.13.6" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2018-04-06T21:59:08Z</time>
+    <bounds maxlat="49.1939700" maxlon="-123.0861700" minlat="48.4974800" minlon="-123.9490200"/>
+  </metadata>
+
+  <wpt lat="48.6578900" lon="-123.3952100">
+    <ele>5.0000000</ele>
+    <name>Amherst Avenue</name>
+    <cmt>Access site - Walk to the beach.  - No camping.</cmt>
+    <desc>Access site - Walk to the beach.  - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7348200" lon="-123.3661300">
+    <ele>5.0000000</ele>
+    <name>Arbutus Point</name>
+    <cmt>Primary campsite - Choice of 2 easy shell beaches at high water. Rock shelf at low water. - Tent pads in trees. Composting toilets. Picnic tables. Fee charged May - Sept.</cmt>
+    <desc>Primary campsite - Choice of 2 easy shell beaches at high water. Rock shelf at low water. - Tent pads in trees. Composting toilets. Picnic tables. Fee charged May - Sept.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.6627000" lon="-123.4034000">
+    <ele>5.0000000</ele>
+    <name>Ardwell Avenue</name>
+    <cmt>Access site - Beach. - No camping.</cmt>
+    <desc>Access site - Beach. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.6050000" lon="-123.5211200">
+    <ele>5.0000000</ele>
+    <name>Bamberton Beach</name>
+    <cmt>Day use - Easy sand/pebble beach, long carry at low tide. - Drive-in campsite accessed by steep trail 500m from beach. Tap water, flush and pit toilets, picnic tables. Overnight parking at campsites only.</cmt>
+    <desc>Day use - Easy sand/pebble beach, long carry at low tide. - Drive-in campsite accessed by steep trail 500m from beach. Tap water, flush and pit toilets, picnic tables. Overnight parking at campsites only.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.6867100" lon="-123.4074500">
+    <ele>5.0000000</ele>
+    <name>Barnacle Road</name>
+    <cmt>Access site - Floats at end of government dock or small sand, pebble beach. Either is awkward. Short carry to beach on steep brushy access trail. Little beach space at high water. - No camping</cmt>
+    <desc>Access site - Floats at end of government dock or small sand, pebble beach. Either is awkward. Short carry to beach on steep brushy access trail. Little beach space at high water. - No camping</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8603200" lon="-123.4684400">
+    <ele>5.0000000</ele>
+    <name>Beachside Drive</name>
+    <cmt>Access site - Easy launch. Alternate launch to Ontario Drive. - No camping.</cmt>
+    <desc>Access site - Easy launch. Alternate launch to Ontario Drive. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7543700" lon="-123.2407600">
+    <ele>4.8768000</ele>
+    <name>Beaumont</name>
+    <cmt>Primary campsite - Easy, on sand beach. - Picnic tables. Pit toilets. Fee charged May - Sept.</cmt>
+    <desc>Primary campsite - Easy, on sand beach. - Picnic tables. Pit toilets. Fee charged May - Sept.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8095900" lon="-123.4259300">
+    <ele>5.0000000</ele>
+    <name>Beddis Beach</name>
+    <cmt>Access site - Long walk at low tide. - No camping.</cmt>
+    <desc>Access site - Long walk at low tide. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8464000" lon="-123.2506300">
+    <ele>5.0000000</ele>
+    <name>Bennett Bay</name>
+    <cmt>Access site - Easy on sheltered sand, pebble beach. Currents. - No camping.</cmt>
+    <desc>Access site - Easy on sheltered sand, pebble beach. Currents. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.0446200" lon="-123.7561100">
+    <ele>4.8768000</ele>
+    <name>Blue Heron Park</name>
+    <cmt>Access site - Good beach, largely sandstone some sand, rocky with barnacles. - No camping.</cmt>
+    <desc>Access site - Good beach, largely sandstone some sand, rocky with barnacles. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1902800" lon="-123.9490200">
+    <ele>5.0000000</ele>
+    <name>Brechin Boat Ramp</name>
+    <cmt>Access site - Paddlecraft dock. Concrete boat ramp, adjacent to Departure Bay BC Ferry terminal. Protected channel but busy with vessel traffic, aircraft. - No camping.</cmt>
+    <desc>Access site - Paddlecraft dock. Concrete boat ramp, adjacent to Departure Bay BC Ferry terminal. Protected channel but busy with vessel traffic, aircraft. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7882700" lon="-123.5176000">
+    <ele>5.0000000</ele>
+    <name>Burgoyne Bay</name>
+    <cmt>Day use - Easy, sand/mud. Much soft mud at low tide. Vessel traffic, subject to gap winds SE, NW. - No camping.</cmt>
+    <desc>Day use - Easy, sand/mud. Much soft mud at low tide. Vessel traffic, subject to gap winds SE, NW. - No camping.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7973300" lon="-123.0861700">
+    <ele>5.0000000</ele>
+    <name>Cabbage Island</name>
+    <cmt>Primary campsite - Easy on protected sand beach. - Picnic tables. Composting toilets. Fee charged May - Sept.</cmt>
+    <desc>Primary campsite - Easy on protected sand beach. - Picnic tables. Composting toilets. Fee charged May - Sept.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9517300" lon="-123.5671000">
+    <ele>5.0000000</ele>
+    <name>Cabin Bay</name>
+    <cmt>Alternate campsite - Sand, pebbles, rock. Exposed to N.  Alternate landing from SE at high tides. - Tent pads. Picnic tables. Pit toilets at Chivers Point (1 km).  Internet camping permit fee pre-payment available.</cmt>
+    <desc>Alternate campsite - Sand, pebbles, rock. Exposed to N.  Alternate landing from SE at high tides. - Tent pads. Picnic tables. Pit toilets at Chivers Point (1 km).  Internet camping permit fee pre-payment available.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1592300" lon="-123.6968700">
+    <ele>5.0000000</ele>
+    <name>Carlos Island</name>
+    <cmt>Alternate campsite - Easy sand - Undeveloped, semi exposed. Grassy area at top.</cmt>
+    <desc>Alternate campsite - Easy sand - Undeveloped, semi exposed. Grassy area at top.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1148700" lon="-123.8051700">
+    <ele>4.8768000</ele>
+    <name>Cedar by the Sea</name>
+    <cmt>Access site - Public boat ramp and easy sand beach. - No camping.</cmt>
+    <desc>Access site - Public boat ramp and easy sand beach. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7100300" lon="-123.5564400">
+    <ele>5.0000000</ele>
+    <name>Cherry Point</name>
+    <cmt>Access site - Easy beach  accessi except at low tide. - No camping.</cmt>
+    <desc>Access site - Easy beach  accessi except at low tide. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9558300" lon="-123.5736700">
+    <ele>5.0000000</ele>
+    <name>Chivers Point</name>
+    <cmt>Primary campsite - Sand, pebble, rock beach, rocky ridges at low water. Narrow approach.  Exposed to NW. - 9 tent pads. Pit toilet. Internet camping permit fee pre-payment available.</cmt>
+    <desc>Primary campsite - Sand, pebble, rock beach, rocky ridges at low water. Narrow approach.  Exposed to NW. - 9 tent pads. Pit toilet. Internet camping permit fee pre-payment available.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9372200" lon="-123.5438800">
+    <ele>5.0000000</ele>
+    <name>Conover Cove</name>
+    <cmt>Alternate campsite - Easy on sand, pebbles, rock  and mud (low tide) in sheltered cove.  Alternate landing on E. side of island 48D 56.283M N, 123D 32.650M W - Camp in grassy field, room for many tents. Pit toilets. Internet camping permit fee pre-payment available.</cmt>
+    <desc>Alternate campsite - Easy on sand, pebbles, rock  and mud (low tide) in sheltered cove.  Alternate landing on E. side of island 48D 56.283M N, 123D 32.650M W - Camp in grassy field, room for many tents. Pit toilets. Internet camping permit fee pre-payment available.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.0122500" lon="-123.5737800">
+    <ele>5.0000000</ele>
+    <name>Coon Bay Dionisio Point</name>
+    <cmt>Primary campsite - Sand. Surf possible on steep beach. Enter at slack current - hazard. Enter extreme E of lagoon entrance. - Sites uphill from beaches. Pit toilets.  Also, Perry Lagoon nearby.</cmt>
+    <desc>Primary campsite - Sand. Surf possible on steep beach. Enter at slack current - hazard. Enter extreme E of lagoon entrance. - Sites uphill from beaches. Pit toilets.  Also, Perry Lagoon nearby.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7430800" lon="-123.6295800">
+    <ele>5.0000000</ele>
+    <name>Cowichan Bay Marine Gateway</name>
+    <cmt>Access site - Special canoe/kayak dock.  Need to be able to launch and land from a low dock.  Alternatively use beach beside kayak dock. Shorter carry and easy launch, but don't step on the flower/plant garden. - No camping.</cmt>
+    <desc>Access site - Special canoe/kayak dock.  Need to be able to launch and land from a low dock.  Alternatively use beach beside kayak dock. Shorter carry and easy launch, but don't step on the flower/plant garden. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8656200" lon="-123.6399000">
+    <ele>5.0000000</ele>
+    <name>Crofton</name>
+    <cmt>Access site - Concrete boat ramp and cobble beach N of ferry terminal.  Difficult to carry boats between ramp and beach because of rough terrain. - No camping.</cmt>
+    <desc>Access site - Concrete boat ramp and cobble beach N of ferry terminal.  Difficult to carry boats between ramp and beach because of rough terrain. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1825000" lon="-123.8616700">
+    <ele>5.0000000</ele>
+    <name>Descanso Bay</name>
+    <cmt>Primary campsite - Easy, protected rock shelf at high tide or small gravel beach at low tide. - Developed campground. Walk up to camping area. Picnic tables, fire pits, flush toilets.  Many sites have room for 2 tents. Open year-round.</cmt>
+    <desc>Primary campsite - Easy, protected rock shelf at high tide or small gravel beach at low tide. - Developed campground. Walk up to camping area. Picnic tables, fire pits, flush toilets.  Many sites have room for 2 tents. Open year-round.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7707100" lon="-123.4618100">
+    <ele>5.0000000</ele>
+    <name>Drummond Park</name>
+    <cmt>Access site - Easy access but launch must be at mid-tide or higher water. - No camping.</cmt>
+    <desc>Access site - Easy access but launch must be at mid-tide or higher water. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9879500" lon="-123.7616000">
+    <ele>4.8768000</ele>
+    <name>Elliott Bay Park</name>
+    <cmt>Access site - Easy launch on sand beach. - No camping.</cmt>
+    <desc>Access site - Easy launch on sand beach. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1939700" lon="-123.8599000">
+    <ele>5.0000000</ele>
+    <name>Gabriola Sands</name>
+    <cmt>Day use - Easy sand beaches at sandy neck facing W, Taylor Bay or E, Pilot Bay. - No camping.</cmt>
+    <desc>Day use - Easy sand beaches at sandy neck facing W, Taylor Bay or E, Pilot Bay. - No camping.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7590400" lon="-123.5988800">
+    <ele>5.0000000</ele>
+    <name>Genoa Bay</name>
+    <cmt>Access site - Protected boat ramp. Shallow gradient. - No camping.</cmt>
+    <desc>Access site - Protected boat ramp. Shallow gradient. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.4974800" lon="-123.5536500">
+    <ele>5.0000000</ele>
+    <name>Goldstream Boathouse Marina</name>
+    <cmt>Access site - Easy concrete boat ramp, sheltered. - Camping available at nearby Goldstream Provincial Park.</cmt>
+    <desc>Access site - Easy concrete boat ramp, sheltered. - Camping available at nearby Goldstream Provincial Park.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9176700" lon="-123.5434900">
+    <ele>5.0000000</ele>
+    <name>Hudson Point</name>
+    <cmt>Access site - Boat ramp. - No camping.</cmt>
+    <desc>Access site - Boat ramp. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9194200" lon="-123.5958200">
+    <ele>5.0000000</ele>
+    <name>Idol Island</name>
+    <cmt>Day use - Easy. - No camping,</cmt>
+    <desc>Day use - Easy. - No camping,</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.5721500" lon="-123.3661800">
+    <ele>5.0000000</ele>
+    <name>Island View Beach</name>
+    <cmt>Access site  - Easy on pebble,cobble beach or boat ramp. Exposed to SE.  - Beach front public campsite and RV park with full facilities. Fees charged.</cmt>
+    <desc>Access site  - Easy on pebble,cobble beach or boat ramp. Exposed to SE.  - Beach front public campsite and RV park with full facilities. Fees charged.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.6623300" lon="-123.2793300">
+    <ele>5.0000000</ele>
+    <name>Isle de Lis</name>
+    <cmt>Primary campsite - Easy on exposed gravel, pebble tombolo between Rum and Gooch Islands. - 3 tent pads 150 m above beach. Pit toilets. Fee charged May - Sept.</cmt>
+    <desc>Primary campsite - Easy on exposed gravel, pebble tombolo between Rum and Gooch Islands. - 3 tent pads 150 m above beach. Pit toilets. Fee charged May - Sept.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8399400" lon="-123.3989000">
+    <ele>4.8768000</ele>
+    <name>James Bay</name>
+    <cmt>Primary campsite - Easy, protected sand/gravel beach at high water. Mud, eel grass and long carry at low water. - Sites in old orchard. Tall grass may reduce sites usable for tenting. Also sites in trees on adjacent edge of cove bank. Composting toilet. Fee charged May - Sept.</cmt>
+    <desc>Primary campsite - Easy, protected sand/gravel beach at high water. Mud, eel grass and long carry at low water. - Sites in old orchard. Tall grass may reduce sites usable for tenting. Also sites in trees on adjacent edge of cove bank. Composting toilet. Fee charged May - Sept.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9285600" lon="-123.7175600">
+    <ele>5.0000000</ele>
+    <name>Kinsman Park Chemainus</name>
+    <cmt>Access site - Wide concrete boat ramp, enough space for canoes, kayaks and boats to launch. - No camping.</cmt>
+    <desc>Access site - Wide concrete boat ramp, enough space for canoes, kayaks and boats to launch. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9980800" lon="-123.8165500">
+    <ele>5.0000000</ele>
+    <name>Ladysmith Boat Ramp</name>
+    <cmt>Access site - Easy on protected beach next to boat ramp. Usable in most tides. - No camping.</cmt>
+    <desc>Access site - Easy on protected beach next to boat ramp. Usable in most tides. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1231700" lon="-123.7655000">
+    <ele>5.0000000</ele>
+    <name>Link Islet</name>
+    <cmt>Day Use - Rock ledges. - No camping.</cmt>
+    <desc>Day Use - Rock ledges. - No camping.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1866700" lon="-123.8203500">
+    <ele>5.0000000</ele>
+    <name>Lock Bay</name>
+    <cmt>Day use - Easy sand and gravel beach. - No camping.</cmt>
+    <desc>Day use - Easy sand and gravel beach. - No camping.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8164600" lon="-123.6092300">
+    <ele>5.0000000</ele>
+    <name>Maple Bay Beach</name>
+    <cmt>Access site - Protected beach. Steep path to upland park. - No camping</cmt>
+    <desc>Access site - Protected beach. Steep path to upland park. - No camping</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8155300" lon="-123.6096000">
+    <ele>5.0000000</ele>
+    <name>Maple Bay Ramp</name>
+    <cmt>Access site - Easy. Concrete boat ramp with moderate slope pebble beach on either side next to rowing club. - No camping.</cmt>
+    <desc>Access site - Easy. Concrete boat ramp with moderate slope pebble beach on either side next to rowing club. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.5543800" lon="-123.5047200">
+    <ele>5.0000000</ele>
+    <name>McKenzie Bight</name>
+    <cmt>Day use - Easy pebble, cobble beach with some shelter - No camping</cmt>
+    <desc>Day use - Easy pebble, cobble beach with some shelter - No camping</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.6505200" lon="-123.5529300">
+    <ele>5.0000000</ele>
+    <name>Mill Bay</name>
+    <cmt>Access site - Easy concrete boat ramp and gravel beach at end of Handy Rd. - No camping.</cmt>
+    <desc>Access site - Easy concrete boat ramp and gravel beach at end of Handy Rd. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8978200" lon="-123.4034500">
+    <ele>4.8768000</ele>
+    <name>Montague Harbour</name>
+    <cmt>Alternate campsite - Easy shell and sand sheltered beaches on both sides of peninsula. Sand and mud at low water. Preferred beach SE of dock. - The 15 walk-in sites all reservable mid-May to mid-Sept1-800-689-9025. Group shelter. Picnic tables.  Pit toilets. Also some casual overflow sites for cyclists, paddlers.</cmt>
+    <desc>Alternate campsite - Easy shell and sand sheltered beaches on both sides of peninsula. Sand and mud at low water. Preferred beach SE of dock. - The 15 walk-in sites all reservable mid-May to mid-Sept1-800-689-9025. Group shelter. Picnic tables.  Pit toilets. Also some casual overflow sites for cyclists, paddlers.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7446600" lon="-123.5442500">
+    <ele>4.8768000</ele>
+    <name>Musgrave Point</name>
+    <cmt>Alternate campsite - Easy, sand/pebble/cobble beach. Vessel traffic in Samsun Narrows. Protected from SE. - Beach floods at high water. 2 marginal tent sites on S end of beach. Better sites on old road in upland at SE end of beach. 'Historic' BCMTN pit toilet maintained by Saltspring Island Paddlers.  No fires in upland.  Follow Leave No Trace principles.</cmt>
+    <desc>Alternate campsite - Easy, sand/pebble/cobble beach. Vessel traffic in Samsun Narrows. Protected from SE. - Beach floods at high water. 2 marginal tent sites on S end of beach. Better sites on old road in upland at SE end of beach. 'Historic' BCMTN pit toilet maintained by Saltspring Island Paddlers.  No fires in upland.  Follow Leave No Trace principles.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7743800" lon="-123.0999200">
+    <ele>4.8768000</ele>
+    <name>Narvaez Bay</name>
+    <cmt>Primary campsite - Easy, on protected sand and gravel beach. - Gravel tent pads. Picnic tables. Pit toilets. Fee charged May - Sept.</cmt>
+    <desc>Primary campsite - Easy, on protected sand and gravel beach. - Gravel tent pads. Picnic tables. Pit toilets. Fee charged May - Sept.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1826700" lon="-123.9289300">
+    <ele>4.8768000</ele>
+    <name>Newcastle Island</name>
+    <cmt>Primary campsite - Easy, except at low water. Rock beach. - Developed year round campground inland 300m. from beach. Picnic tables. Flush toilets, showers. Dining shelters. Group camping nearer beach. Reservations available.</cmt>
+    <desc>Primary campsite - Easy, except at low water. Rock beach. - Developed year round campground inland 300m. from beach. Picnic tables. Flush toilets, showers. Dining shelters. Group camping nearer beach. Reservations available.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8592300" lon="-123.4637100">
+    <ele>5.0000000</ele>
+    <name>Ontario Place</name>
+    <cmt>Access site - Good beach in sheltered Long Harbour. - No camping.</cmt>
+    <desc>Access site - Good beach in sheltered Long Harbour. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.6542000" lon="-123.4458000">
+    <ele>5.0000000</ele>
+    <name>Patricia Bay</name>
+    <cmt>Access site - Gravel beach; limited access at high tide. - No camping</cmt>
+    <desc>Access site - Gravel beach; limited access at high tide. - No camping</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9415500" lon="-123.5022000">
+    <ele>5.0000000</ele>
+    <name>Pebble Beach Retreat Cove</name>
+    <cmt>Day use - Easy sand, pebble beach. - No known camping.</cmt>
+    <desc>Day use - Easy sand, pebble beach. - No known camping.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.0945000" lon="-123.7255000">
+    <ele>4.8768000</ele>
+    <name>Pirates Cove</name>
+    <cmt>Primary campsite - Easy shell/gravel beach facing Ruxton Passage. Some exposure to S. - Tent pads, picnic tables, composting toilet. Stairs give access from beach.  Internet camping permit fee pre-payment available.</cmt>
+    <desc>Primary campsite - Easy shell/gravel beach facing Ruxton Passage. Some exposure to S. - Tent pads, picnic tables, composting toilet. Stairs give access from beach.  Internet camping permit fee pre-payment available.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8358500" lon="-123.4718100">
+    <ele>5.0000000</ele>
+    <name>Price Road</name>
+    <cmt>Access Site - Easy launch at end of walkway. Pebble beach with easy gradient.  - No camping.</cmt>
+    <desc>Access Site - Easy launch at end of walkway. Pebble beach with easy gradient.  - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7206500" lon="-123.3698200">
+    <ele>4.8768000</ele>
+    <name>Princess Bay</name>
+    <cmt>Alternate campsite - Easy on beach in protected bay. Gravel at high water, mud at low water. - Camp in mown open field (old orchard). Composting toilets. Picnic tables. Stairs give access up bank. Fee charged May - Sept.</cmt>
+    <desc>Alternate campsite - Easy on beach in protected bay. Gravel at high water, mud at low water. - Camp in mown open field (old orchard). Composting toilets. Picnic tables. Stairs give access up bank. Fee charged May - Sept.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.9894500" lon="-123.6158300">
+    <ele>4.8768000</ele>
+    <name>Reid Islet</name>
+    <cmt>Day use - Difficult, rock ledges.  Protected from NW but exposed to SE. Easier on NE at lower tide levels. - Camping not recommended. Undeveloped. Some possiblerough tent sites at S end.</cmt>
+    <desc>Day use - Difficult, rock ledges.  Protected from NW but exposed to SE. Easier on NE at lower tide levels. - Camping not recommended. Undeveloped. Some possiblerough tent sites at S end.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7702000" lon="-123.3687400">
+    <ele>4.8768000</ele>
+    <name>Ruckle</name>
+    <cmt>Alternate campsite - Small exposed beaches near Beaver Pt. on mostly rocky shores or sheltered coves to N or S but away from camp area. Otherwise rocky and exposed. 7 km shoreline. - Camp in huge open field. Sites non-reservable. Pit toilets. Picnic tables. Group fire pits. Group sites.</cmt>
+    <desc>Alternate campsite - Small exposed beaches near Beaver Pt. on mostly rocky shores or sheltered coves to N or S but away from camp area. Otherwise rocky and exposed. 7 km shoreline. - Camp in huge open field. Sites non-reservable. Pit toilets. Picnic tables. Group fire pits. Group sites.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7477000" lon="-123.4128800">
+    <ele>5.0000000</ele>
+    <name>Russell Island</name>
+    <cmt>Day use - Shell beach landing on W side. Also small dock. - No camping.</cmt>
+    <desc>Day use - Shell beach landing on W side. Also small dock. - No camping.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7261800" lon="-123.5126800">
+    <ele>5.0000000</ele>
+    <name>Saltspring Iskand Site B</name>
+    <cmt>Potential campsite - Easy on sand and pebble beach. Some exposure to S. - Some sites on beach, others on upland grassy bank.</cmt>
+    <desc>Potential campsite - Easy on sand and pebble beach. Some exposure to S. - Some sites on beach, others on upland grassy bank.</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.0075700" lon="-123.5672700">
+    <ele>4.8768000</ele>
+    <name>Sandstone Ledge Dionisio Point</name>
+    <cmt>Alternate campsite - Rocky ledge. Surf possible when windy. Fair weather stop only. Enter Porlier Pass at slack tide. Current hazards. - Picnic tables. Pit toilets.</cmt>
+    <desc>Alternate campsite - Rocky ledge. Surf possible when windy. Fair weather stop only. Enter Porlier Pass at slack tide. Current hazards. - Picnic tables. Pit toilets.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.7219500" lon="-123.3838300">
+    <ele>4.8768000</ele>
+    <name>Shell Beach</name>
+    <cmt>Primary campsite - Easy on protected shell beach at all water levels. - Open tenting on grass. Pit toilets. Picnic tables. Sunny SW aspect. Fee charged May - Sept.</cmt>
+    <desc>Primary campsite - Easy on protected shell beach at all water levels. - Open tenting on grass. Pit toilets. Picnic tables. Sunny SW aspect. Fee charged May - Sept.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.6355000" lon="-123.3295000">
+    <ele>4.8768000</ele>
+    <name>Sidney Island</name>
+    <cmt>Primary campsite - Easy sheltered sand beach at all water levels. Small seasonal dock. - Open grassy sites and tent pads. Picnic tables. Gear carts. Picnic shelter. Pit toilets. Fee charged May - Sept. Site closed for hunting 1 Nov - 28 Feb. Group camping site.</cmt>
+    <desc>Primary campsite - Easy sheltered sand beach at all water levels. Small seasonal dock. - Open grassy sites and tent pads. Picnic tables. Gear carts. Picnic shelter. Pit toilets. Fee charged May - Sept. Site closed for hunting 1 Nov - 28 Feb. Group camping site.</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.5821000" lon="-123.4680000">
+    <ele>5.0000000</ele>
+    <name>Tsartlip Brentwood Bay</name>
+    <cmt>Access site - Boat ramp. - No camping.</cmt>
+    <desc>Access site - Boat ramp. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.6428500" lon="-123.3982300">
+    <ele>5.0000000</ele>
+    <name>Tulista Park</name>
+    <cmt>Access Site - Narrow gravel beach. Sea wall. Boat ramp. - No camping.</cmt>
+    <desc>Access Site - Narrow gravel beach. Sea wall. Boat ramp. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.5776000" lon="-123.4657000">
+    <ele>5.0000000</ele>
+    <name>Verdier Park</name>
+    <cmt>Access site - Concrete kayak, canoe launch at small shingle beach immediately S of ferry dock. - No camping.</cmt>
+    <desc>Access site - Concrete kayak, canoe launch at small shingle beach immediately S of ferry dock. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.1242000" lon="-123.7003200">
+    <ele>4.8768000</ele>
+    <name>Wakes Cove</name>
+    <cmt>Day use - Steep rocky protected shore. - No camping permitted at this time.</cmt>
+    <desc>Day use - Steep rocky protected shore. - No camping permitted at this time.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8507700" lon="-123.4452500">
+    <ele>5.0000000</ele>
+    <name>Welbury Bay</name>
+    <cmt>Access site - Footpath ramp from near BC Ferry booth leads down steps to protected mixed beach that almost floods at high water. - No camping.</cmt>
+    <desc>Access site - Footpath ramp from near BC Ferry booth leads down steps to protected mixed beach that almost floods at high water. - No camping.</desc>
+    <sym>Car</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.8094000" lon="-123.1890300">
+    <ele>5.0000000</ele>
+    <name>Winter Cove</name>
+    <cmt>Day use - Easy in sheltered cove. Gravel and sand beach near small dock. - No camping.</cmt>
+    <desc>Day use - Easy in sheltered cove. Gravel and sand beach near small dock. - No camping.</desc>
+    <sym>Picnic Area</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>

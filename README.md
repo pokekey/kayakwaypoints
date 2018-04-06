@@ -7,6 +7,11 @@ Puget Sound and West Coast waypoints for Kayakers
 
 Waypoints for the olympic coast
 
+## Gulf_Islands.gpx
+
+Gulf islands BC Marine trail camp sites, day use, and access points.
+From 2014.
+
 
 ## SalishSea-US.gpx
 
