@@ -5,8 +5,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2018-04-04T23:22:29Z</time>
-    <bounds maxlat="48.2726291" maxlon="-124.4507220" minlat="47.7629440" minlon="-124.7323734"/>
+    <time>2018-09-11T23:25:12Z</time>
+    <bounds maxlat="48.3883700" maxlon="-124.4507220" minlat="47.7629440" minlon="-124.7323734"/>
   </metadata>
 
   <wpt lat="47.7629440" lon="-124.4507220">
@@ -54,6 +54,187 @@
     <cmt>day 3 camp site</cmt>
     <desc>day 3 camp site</desc>
     <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.2091199" lon="-124.6918837">
+    <name>H1CSEF</name>
+    <cmt>campsite 2 seafield 
+
+creek</cmt>
+    <desc>campsite 2 seafield 
+
+creek</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.2476831" lon="-124.6967806">
+    <time>2008-09-05T05:51:38Z</time>
+    <name>H1CSHI</name>
+    <cmt>shi shi beach campsite</cmt>
+    <desc>shi shi beach campsite</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1576826" lon="-124.7261504">
+    <name>H1CWED</name>
+    <cmt>campsite number 1 
+
+in the wedding rocks
+
+area</cmt>
+    <desc>campsite number 1 
+
+in the wedding rocks
+
+area</desc>
+    <sym>Campground</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1586076" lon="-124.7289514">
+    <name>H1LW01</name>
+    <cmt>little water</cmt>
+    <desc>little water</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1582721" lon="-124.7282504">
+    <name>H1LW02</name>
+    <cmt>H1LW02</cmt>
+    <desc>H1LW02</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1570536" lon="-124.7256477">
+    <name>H1LW03</name>
+    <cmt>H1LW03</cmt>
+    <desc>H1LW03</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1723538" lon="-124.7253732">
+    <name>H1LW04</name>
+    <cmt>H1LW04</cmt>
+    <desc>H1LW04</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1723461" lon="-124.7253576">
+    <name>H1LW04B</name>
+    <cmt>H1LW04B</cmt>
+    <desc>H1LW04B</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1788221" lon="-124.7158647">
+    <name>H1LW05</name>
+    <cmt>H1LW05</cmt>
+    <desc>H1LW05</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1884601" lon="-124.7015594">
+    <name>H1LW06</name>
+    <cmt>H1LW06</cmt>
+    <desc>H1LW06</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.2370257" lon="-124.7014121">
+    <name>H1LW07</name>
+    <cmt>H1LW07</cmt>
+    <desc>H1LW07</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.2373271" lon="-124.7014349">
+    <name>H1LW08</name>
+    <cmt>H1LW08</cmt>
+    <desc>H1LW08</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.2629499" lon="-124.6813475">
+    <name>H1LW09</name>
+    <cmt>H1LW09</cmt>
+    <desc>H1LW09</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.2726291" lon="-124.6803603">
+    <name>H1LW10</name>
+    <cmt>H1LW10</cmt>
+    <desc>H1LW10</desc>
+    <sym>Drinking Water</sym>
     <extensions>
       <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -126,9 +307,33 @@
     </extensions>
   </wpt>
 
+  <wpt lat="48.1680226" lon="-124.7323734">
+    <name>H1RGR1</name>
+    <cmt>ranger hut</cmt>
+    <desc>ranger hut</desc>
+    <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="47.7668610" lon="-124.4568890">
     <ele>-0.3048000</ele>
     <name>H1W01</name>
+    <cmt>water</cmt>
+    <desc>water</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1608521" lon="-124.7320529">
+    <name>H1W011</name>
     <cmt>water</cmt>
     <desc>water</desc>
     <sym>Drinking Water</sym>
@@ -152,11 +357,35 @@
     </extensions>
   </wpt>
 
+  <wpt lat="48.1715424" lon="-124.7264858">
+    <name>H1W021</name>
+    <cmt>H1W02</cmt>
+    <desc>H1W02</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="47.7733060" lon="-124.4694440">
     <ele>72.2376000</ele>
     <name>H1W03</name>
     <cmt>water</cmt>
     <desc>water</desc>
+    <sym>Drinking Water</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="48.1755906" lon="-124.7212680">
+    <name>H1W031</name>
+    <cmt>H1W03</cmt>
+    <desc>H1W03</desc>
     <sym>Drinking Water</sym>
     <extensions>
       <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
@@ -386,19 +615,11 @@
     </extensions>
   </wpt>
 
-  <wpt lat="48.1576826" lon="-124.7261504">
-    <name>H1CWED</name>
-    <cmt>campsite number 1 
-
-in the wedding rocks
-
-area</cmt>
-    <desc>campsite number 1 
-
-in the wedding rocks
-
-area</desc>
-    <sym>Campground</sym>
+  <wpt lat="48.3705000" lon="-124.7220000">
+    <ele>12.1920000</ele>
+    <time>2018-08-29T00:11:29Z</time>
+    <name>Pee1</name>
+    <sym>Picnic Area</sym>
     <extensions>
       <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -406,15 +627,11 @@ area</desc>
     </extensions>
   </wpt>
 
-  <wpt lat="48.2091199" lon="-124.6918837">
-    <name>H1CSEF</name>
-    <cmt>campsite 2 seafield 
-
-creek</cmt>
-    <desc>campsite 2 seafield 
-
-creek</desc>
-    <sym>Campground</sym>
+  <wpt lat="48.3584520" lon="-124.7073650">
+    <ele>28.6512000</ele>
+    <time>2018-08-31T19:08:39Z</time>
+    <name>TPEE12</name>
+    <sym>Picnic Area</sym>
     <extensions>
       <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -422,12 +639,11 @@ creek</desc>
     </extensions>
   </wpt>
 
-  <wpt lat="48.2476831" lon="-124.6967806">
-    <time>2008-09-05T05:51:38Z</time>
-    <name>H1CSHI</name>
-    <cmt>shi shi beach campsite</cmt>
-    <desc>shi shi beach campsite</desc>
-    <sym>Campground</sym>
+  <wpt lat="48.3812460" lon="-124.7290280">
+    <ele>53.9496000</ele>
+    <time>2018-08-31T20:18:09Z</time>
+    <name>TPEE13</name>
+    <sym>Picnic Area</sym>
     <extensions>
       <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -435,11 +651,11 @@ creek</desc>
     </extensions>
   </wpt>
 
-  <wpt lat="48.1586076" lon="-124.7289514">
-    <name>H1LW01</name>
-    <cmt>little water</cmt>
-    <desc>little water</desc>
-    <sym>Drinking Water</sym>
+  <wpt lat="48.3827800" lon="-124.7286120">
+    <ele>58.5216000</ele>
+    <time>2018-08-31T21:08:35Z</time>
+    <name>TPEE14</name>
+    <sym>Picnic Area</sym>
     <extensions>
       <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
@@ -447,167 +663,11 @@ creek</desc>
     </extensions>
   </wpt>
 
-  <wpt lat="48.1582721" lon="-124.7282504">
-    <name>H1LW02</name>
-    <cmt>H1LW02</cmt>
-    <desc>H1LW02</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.1570536" lon="-124.7256477">
-    <name>H1LW03</name>
-    <cmt>H1LW03</cmt>
-    <desc>H1LW03</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.1723538" lon="-124.7253732">
-    <name>H1LW04</name>
-    <cmt>H1LW04</cmt>
-    <desc>H1LW04</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.1723461" lon="-124.7253576">
-    <name>H1LW04B</name>
-    <cmt>H1LW04B</cmt>
-    <desc>H1LW04B</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.1788221" lon="-124.7158647">
-    <name>H1LW05</name>
-    <cmt>H1LW05</cmt>
-    <desc>H1LW05</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.1884601" lon="-124.7015594">
-    <name>H1LW06</name>
-    <cmt>H1LW06</cmt>
-    <desc>H1LW06</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.2370257" lon="-124.7014121">
-    <name>H1LW07</name>
-    <cmt>H1LW07</cmt>
-    <desc>H1LW07</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.2373271" lon="-124.7014349">
-    <name>H1LW08</name>
-    <cmt>H1LW08</cmt>
-    <desc>H1LW08</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.2629499" lon="-124.6813475">
-    <name>H1LW09</name>
-    <cmt>H1LW09</cmt>
-    <desc>H1LW09</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.2726291" lon="-124.6803603">
-    <name>H1LW10</name>
-    <cmt>H1LW10</cmt>
-    <desc>H1LW10</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.1680226" lon="-124.7323734">
-    <name>H1RGR1</name>
-    <cmt>ranger hut</cmt>
-    <desc>ranger hut</desc>
-    <sym>Waypoint</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.1608521" lon="-124.7320529">
-    <name>H1W01</name>
-    <cmt>water</cmt>
-    <desc>water</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.1715424" lon="-124.7264858">
-    <name>H1W02</name>
-    <cmt>H1W02</cmt>
-    <desc>H1W02</desc>
-    <sym>Drinking Water</sym>
-    <extensions>
-      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
-        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
-      </gpxx:WaypointExtension>
-    </extensions>
-  </wpt>
-
-  <wpt lat="48.1755906" lon="-124.7212680">
-    <name>H1W03</name>
-    <cmt>H1W03</cmt>
-    <desc>H1W03</desc>
-    <sym>Drinking Water</sym>
+  <wpt lat="48.3883700" lon="-124.7215910">
+    <ele>62.4840000</ele>
+    <time>2018-08-31T21:49:09Z</time>
+    <name>TPEE15</name>
+    <sym>Picnic Area</sym>
     <extensions>
       <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
